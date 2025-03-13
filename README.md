@@ -6,6 +6,6 @@
 
 - Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır.
 
-Tanıtım Videosı: 
+- Tanıtım Videosı: 
 
-https://github.com/user-attachments/assets/2606359d-d410-440b-89d2-61a8026e33ed
+- https://github.com/user-attachments/assets/2606359d-d410-440b-89d2-61a8026e33ed
