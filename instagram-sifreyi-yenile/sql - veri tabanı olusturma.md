@@ -1,0 +1,1 @@
+create database ig_reset_password DEFAULT CHARACTER SET utf8 COLLATE utf8_turkish_ci;

@@ -1,0 +1,1 @@
+create database instagram_giris default character set utf8 collate utf8_turkish_ci;
