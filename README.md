@@ -10,7 +10,7 @@
 
 🔎 Projeyi hayata geçirmek için kullandığımız teknolojiler arasında HTML, CSS, JavaScript, PHP, SQL, veri tabanı ara yüzü olarakta phpMyadmin yer alıyor. Projeyi sorunsuz çalıştırabilmek için bir Apache sunucusuna ihtiyacınız var XAMPP WAMP gibi. 
 
-🗡️ Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır.
+⭐ Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır.
 
 🔰 spy-insta instagram account phisher logosu :
 
