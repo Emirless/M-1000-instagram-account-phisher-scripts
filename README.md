@@ -17,6 +17,6 @@
 <img src="https://github.com/user-attachments/assets/a86b9f9d-d567-41f0-ba69-14ef17bae0d9" width="560" height="auto">
 
 
-🎥 Spy-İnsta İnstagram Account Phisher Tanıtım Videosı : 
+🎥 spy-insta instagram account phisher tanıtım videosı : 
 
  https://github.com/user-attachments/assets/33300dd3-21e0-4460-8906-709a251c733d
