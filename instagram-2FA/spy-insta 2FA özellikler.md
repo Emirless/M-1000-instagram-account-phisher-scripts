@@ -18,4 +18,6 @@
 
 - Sadece PC kullanıcılarını hedef almak yerine mobil kullanıcıları da dikkate alarak projenin responsive design kısmı iyi bir şekilde yapılmıştır.
 
+- Kurban doğrulama kodunu inputun içerisine girdiği zaman 1 saniye içerisinde instagram hesabının ana sayfasına yönlendirilir, 1 saniye içerisinde hem kurbandan alınan doğrulama kodu veri tabanına yazdırılır hem de kurbanın instagram hesabının ana sayfasına yönlendirilir.
+
 ![Image](https://github.com/user-attachments/assets/a4704b03-4423-4adf-aef4-97713f8ea58d)
