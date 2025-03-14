@@ -14,4 +14,4 @@
 
 🎥 Tanıtım Videosı : 
 
- https://github.com/user-attachments/assets/2606359d-d410-440b-89d2-61a8026e33ed
+ https://github.com/user-attachments/assets/33300dd3-21e0-4460-8906-709a251c733d
