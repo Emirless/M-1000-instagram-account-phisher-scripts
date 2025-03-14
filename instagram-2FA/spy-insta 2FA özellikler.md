@@ -17,3 +17,5 @@
 -  "Uygulamayı indir" kısmında ki market linklerine tıklanırsa gerçek marketlere yönlendirilir. App Store linkine tıklanırsa App Store'a yönlendirilir, Google Play Store linkine tıklanırsa Google Play Store'a yönlendirilir.
 
 - Sadece PC kullanıcılarını hedef almak yerine mobil kullanıcıları da dikkate alarak projenin responsive design kısmı iyi bir şekilde yapılmıştır.
+
+![Image](https://github.com/user-attachments/assets/a4704b03-4423-4adf-aef4-97713f8ea58d)
