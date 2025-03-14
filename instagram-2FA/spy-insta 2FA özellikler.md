@@ -4,7 +4,7 @@
 ![Image](https://github.com/user-attachments/assets/ab649e7e-729e-4293-a105-0bf892fb1e4a)
 
 
-🔨 Özellikler:
+🗡️ Özellikler:
 
 ✔️ Eğer karşı tarafın telefon numarasını biliyorsanız sansürsüz olan kısımı (88) karşı tarafın telefon numarasının sonu ile değiştirin, bu inandırıcılığı arttıracaktır.
 
