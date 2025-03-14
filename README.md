@@ -14,7 +14,7 @@
 
 🔰 spy-insta instagram account phisher logosu :
 
-<img src="https://github.com/user-attachments/assets/a86b9f9d-d567-41f0-ba69-14ef17bae0d9" width="580" height="auto">
+<img src="https://github.com/user-attachments/assets/a86b9f9d-d567-41f0-ba69-14ef17bae0d9" width="560" height="auto">
 
 
 🎥 Tanıtım Videosı : 
