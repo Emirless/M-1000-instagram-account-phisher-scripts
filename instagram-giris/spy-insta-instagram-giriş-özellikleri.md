@@ -10,7 +10,7 @@
 
 ![Image](https://github.com/user-attachments/assets/3a7cac45-0f58-4b4d-b98c-69670e9ee902)
 
-🔎 Özellikler :
+🎯 Özellikler :
 
 ✔️ Kurban 2 inputun içerisine eksiksiz veri girmek zorundadır aksi taktirde bir hata mesajı alacaktır, bu durumda kurbanın sizin istediğiniz gibi davranmasına, sizin istediğiniz şekilde hareket etmesine sebep olacaktır. Sadece tek bir input dolu olup giriş yap butonuna basarsa aynı hata mesajını tekrar alacaktır.
 
