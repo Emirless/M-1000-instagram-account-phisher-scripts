@@ -1,10 +1,10 @@
 📇 spy-insta'nın bir diğer sürümü olan instagram giriş sürümü klasik bir phishing saldırısı yapmanıza olanak sağlayan bir sürümdür. Yıllardır gördüğümüz ve artık klasikleşmiş bir yöntem olup hala iş yapan bir yöntemdir giriş sayfası phishing yöntemi.
 
-⚙️ Burada amacımız instagram giriş sayfasını teklit ederek kurbanın tıpkı instagramın gerçek giriş sayfasından kendi hesabına giriş yapıyormuş gibi bir izlenim oluşturmak.
+🔹 Burada amacımız instagram giriş sayfasını teklit ederek kurbanın tıpkı instagramın gerçek giriş sayfasından kendi hesabına giriş yapıyormuş gibi bir izlenim oluşturmak.
 
-⚙️ İlk inputta sadece kullanıcı adı yerine kurbanın farklı bilgilerini girerse eğer onları da görebileceğiz. E posta, ve telefon numarası gibi. İkinci inputta ise kurbanın instagram şifresini alıyoruz.
+🚀 İlk inputta sadece kullanıcı adı yerine kurbanın farklı bilgilerini girerse eğer onları da görebileceğiz. E posta, ve telefon numarası gibi. İkinci inputta ise kurbanın instagram şifresini alıyoruz.
 
-⚙️ Bu sürümün en büyük artısı diğer sürümler ile (Özellikle 2FA) muazzam bir şekilde kordineli çalışması. Bu sürüm ile kurbanın kullanıcı adını, e postasını veya telefon numarasını aldınız diyelim.
+🔒 Bu sürümün en büyük artısı diğer sürümler ile (Özellikle 2FA) muazzam bir şekilde kordineli çalışması. Bu sürüm ile kurbanın kullanıcı adını, e postasını veya telefon numarasını aldınız diyelim.
 
 ⚙️ Ve giriş yapıyorsunuz ve fark ediyorsunuz ki hesapta 2FA açıkmış ve karşınıza doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, 2FA phishing yaptıktan sonra hesaba tamamı ile erişiyorsunuz.
 
@@ -27,5 +27,7 @@
 ✔️ Aynısı Google Play Store için de geçerlidir, Eğer Google Play Store görseline tıklarsa instagramın Google Play Store marketine yönlendirilecektir. Bunun amacı tamamen profesyonel, gerçekçi, ve inandırıcı bir imaj çizmek için uygulanmıştır.
 
 ✔️ Kurban 2 inputu eksiksiz ve doğru bir şekilde girdiyse 1 saniye içerisinde instagram hesabının ana sayfasına yönlendirilir, 1 saniye içerisinde hem kurbandan alınan veri veri tabanına yazdırılır hem de instagram hesabının ana sayfasına yönlendirilir.
+
+✔️ Sadece PC kullanıcıları hedef alınmayıp mobil kullanıcılar da hedef alınmıştur, o sebepten projenin responsive design kısmı iyi bir şekilde yapılmıştır.
 
 ![Image](https://github.com/user-attachments/assets/1d5b0130-3449-400f-b900-714ef2a2d965)
