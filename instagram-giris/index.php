@@ -6,9 +6,9 @@
 // -- ╚════██║██╔═══╝   ╚██╔╝ ╚════╝██║██║╚██╗██║╚════██║   ██║   ██╔══██║ -- \\  
 // -- ███████║██║        ██║        ██║██║ ╚████║███████║   ██║   ██║  ██║ -- \\
 // -- ╚══════╝╚═╝        ╚═╝        ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ -- \\
-// --                            Developer By: BlackPion                    -- \\
-// --                            Github: https://l24.im/RpHLQx              -- \\
-// --                            Forum Profil Linki: https://l24.im/dNx8    -- \\
+// --                            Developer By: BlackPion                   -- \\
+// --                            Github: https://l24.im/RpHLQx             -- \\
+// --                            Forum Profil Linki: https://l24.im/dNx8   -- \\
 // --                            Tanıtım Videosu Linki: https://l24.im/vQFjh -- \\
 
 include("connect.php");
