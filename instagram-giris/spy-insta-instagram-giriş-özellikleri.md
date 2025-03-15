@@ -9,7 +9,7 @@
 
 <p align="center"><b>🔒 Bu sürümün en büyük artısı diğer sürümler ile (Özellikle 2FA) muazzam bir şekilde kordineli çalışması. Bu sürüm ile kurbanın kullanıcı adını, e postasını veya telefon numarasını aldınız diyelim. 🔒</b></p>
 
-<p align="center"><b>⚙️ Ve giriş yapıyorsunuz fark ediyorsunuz ki hesapta 2FA açıkmış, karşınız da doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, 2FA phishing yaptıktan sonra hesaba tamamı ile erişiyorsunuz. ⚙️</b></p>
+<p align="center"><b>⚙️ Ve giriş yapıyorsunuz fark ediyorsunuz ki hesapta 2FA açıkmış, karşınız da doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, Spy-İnsta 2FA Phishing sürümü ile 6 haneli doğrulama kodunu aldıktan sonra hesaba tamamı ile erişiyorsunuz. ⚙️</b></p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a7cac45-0f58-4b4d-b98c-69670e9ee902" width="900">
