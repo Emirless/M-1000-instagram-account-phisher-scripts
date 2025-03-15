@@ -1,3 +1,7 @@
+<p align="center"><b>🎣 Spy-İnsta İnstagram Account Phisher 🎣</b></p>
+
+---
+
 🔨 Spy-İnsta, instagram hesaplarına Phishing saldırısı yapmanıza yardımcı olacak bir phishing pack. İçerisinde günümüzün baş belası 6 haneli 2FA doğrulama kodunu kurbandan alabilmenizi sağlayan bir yardımcı pack bulunuyor. Aynı zamanda instagram giriş, ve şifre sıfırlama da bulunuyor içinde. 
 
 ⚔️ Yani tek bir şey ile sınırlı değilsiniz. İsterseniz kordineli bir şekilde de kullanabilirsiniz. Örnek bir senaryo; Kurbanın ilk önce instagram giriş packi ile kullanıcı adını ve şifresini aldınız.
@@ -12,11 +16,10 @@
 
 ⭐ Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır.
 
-🔰 spy-insta instagram account phisher logosu :
+🔰 spy-insta instagram account phisher logo & tanıtım videosu :
 
  <img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="560">
-
-
-🎥 spy-insta instagram account phisher tanıtım videosı : 
-
+ 
+ ---
+ 
  https://github.com/user-attachments/assets/33300dd3-21e0-4460-8906-709a251c733d
