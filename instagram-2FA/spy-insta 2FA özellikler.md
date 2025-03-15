@@ -3,6 +3,7 @@
 ---
 <p align="center"><b>🎯 spy-insta 2FA packi sayesinde kurbanın telefonuna giden 6 haneli doğrulama koduna yönelik bir phishing saldırısı yapabileceksiniz. Bu da günümüzün baş belası olan en azından phisherlar için baş belası olan 2FA sorununu çözmüş olacaksınız. 🎯</b></p>
 
+---
 
 <p align="center"><b> <img src="https://github.com/user-attachments/assets/ab649e7e-729e-4293-a105-0bf892fb1e4a" width="900"></b></p>
 
