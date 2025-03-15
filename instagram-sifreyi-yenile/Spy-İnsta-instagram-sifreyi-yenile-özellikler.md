@@ -3,7 +3,7 @@
 ---
 <p align="center"><b>💻 spy-insta'nın bir başka packi olan instagram-sifreyi-yenile packi kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir pack, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
 
-<p align="center"><b>💬 Bu phishing modelinde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki asıl önemli olan input. Asıl şifreyi alabilmemiz için önemlidir, kurban buraya asıl instagram şifresini girecek.</b></p>
+<p align="center"><b>💬 Bu phishing modelinde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki asıl önemli olan input. Asıl şifreyi alabilmemiz için önemlidir, kurban buraya asıl instagram şifresini girecek. 💬</b></p>
 
 <p align="center"><b>🔔 İkinci inputa ise yeni belirleyeceği şifreyi girmesini istedik, bu sayede tıpkı instagram şifreyi yenileme operasyonunun aynısını gerçekleştirdik. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre çünkü asıl şifre o. İkinci input'un da veri tabanına kayıt olmasının sebebi; 🔔</b></p>
 
