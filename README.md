@@ -16,9 +16,9 @@
 
 <p align="center"><b>⭐ Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır. ⭐</b></p>
 
-<p align="center"><b>🔰 spy-insta instagram account phisher logo & tanıtım videosu :</b></p>
-
 ---
+
+<p align="center"><b>🔰 spy-insta instagram account phisher logo & tanıtım videosu :</b></p>
 
  <p align="center"><b><img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="540"></b></p>
  
