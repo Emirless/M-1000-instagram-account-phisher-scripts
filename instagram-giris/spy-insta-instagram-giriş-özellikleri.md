@@ -11,6 +11,8 @@
 
 <p align="center"><b>⚙️ Ve giriş yapıyorsunuz fark ediyorsunuz ki hesapta 2FA açıkmış, karşınız da doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, Spy-İnsta instagram-2FA Phishing sürümü ile 6 haneli doğrulama kodunu aldıktan sonra hesaba tamamı ile erişiyorsunuz. ⚙️</b></p>
 
+---
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a7cac45-0f58-4b4d-b98c-69670e9ee902" width="900">
 </p>
