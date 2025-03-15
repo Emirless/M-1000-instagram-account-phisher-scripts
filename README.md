@@ -2,23 +2,23 @@
 
 ---
 
-🔨 Spy-İnsta, instagram hesaplarına Phishing saldırısı yapmanıza yardımcı olacak bir phishing pack. İçerisinde günümüzün baş belası 6 haneli 2FA doğrulama kodunu kurbandan alabilmenizi sağlayan bir yardımcı pack bulunuyor. Aynı zamanda instagram giriş, ve şifre sıfırlama da bulunuyor içinde. 
+<p align="center"><b>🔨 Spy-İnsta, instagram hesaplarına Phishing saldırısı yapmanıza yardımcı olacak bir phishing pack. İçerisinde günümüzün baş belası 6 haneli 2FA doğrulama kodunu kurbandan alabilmenizi sağlayan bir yardımcı pack bulunuyor. Aynı zamanda instagram giriş, ve şifre sıfırlama da bulunuyor içinde. 🔨</b></p> 
 
-⚔️ Yani tek bir şey ile sınırlı değilsiniz. İsterseniz kordineli bir şekilde de kullanabilirsiniz. Örnek bir senaryo; Kurbanın ilk önce instagram giriş packi ile kullanıcı adını ve şifresini aldınız.
+<p align="center"><b>⚔️ Yani tek bir şey ile sınırlı değilsiniz. İsterseniz kordineli bir şekilde de kullanabilirsiniz. Örnek bir senaryo; Kurbanın ilk önce instagram giriş packi ile kullanıcı adını ve şifresini aldınız. ⚔️</b></p>
 
-🛡️ Sonra bir bakıyorsunuz ki hesapta 2FA açık, karşınızda bir doğrulama kodu sayfası var. O zamanda 2FA packi devreye giriyor, 2FA pack sayesinde Phisherlar için günümüzün baş belası olan 2FA'ı atlatabiliyorsunuz.
+<p align="center"><b>🛡️ Sonra bir bakıyorsunuz ki hesapta 2FA açık, karşınızda bir doğrulama kodu sayfası var. O zamanda 2FA packi devreye giriyor, 2FA pack sayesinde Phisherlar için günümüzün baş belası olan 2FA'ı atlatabiliyorsunuz. 🛡️</b></p>
 
-🪓 Aynı zamanda şifre yenileme packi de bulunuyor, kurbana panik yaptırarak örnek senaryo; Şifreniz yetersiz bulunulduğu için değiştirmeniz gerekmektedir. Aksi taktirde 24 saat içerisinde hesabınız askıya alınacaktır.
+<p align="center"><b>🪓 Aynı zamanda şifre yenileme packi de bulunuyor, kurbana panik yaptırarak örnek senaryo; Şifreniz yetersiz bulunulduğu için değiştirmeniz gerekmektedir. Aksi taktirde 24 saat içerisinde hesabınız askıya alınacaktır. 🪓</b></p>
 
-🕵️ Bu sayede kurban ilk inputun içerisine gerçek şifresini yazacaktır, 2. inputa ise yeni oluşturmak istediği şifreyi yazacaktır, Ve biz de hem eski şifresini hem de yeni belirlemiş olduğu şifresini veri tabanına yazdırarak kolaylıkla görebileceğiz.
+<p align="center"><b>🕵️ Bu sayede kurban ilk inputun içerisine gerçek şifresini yazacaktır, 2. inputa ise yeni oluşturmak istediği şifreyi yazacaktır, Ve biz de hem eski şifresini hem de yeni belirlemiş olduğu şifresini veri tabanına yazdırarak kolaylıkla görebileceğiz. 🕵️</b></p>
 
-🔎 Projeyi hayata geçirmek için kullandığımız teknolojiler arasında HTML, CSS, JavaScript, PHP, SQL, veri tabanı ara yüzü olarakta phpMyadmin yer alıyor. Projeyi sorunsuz çalıştırabilmek için bir Apache sunucusuna ihtiyacınız var XAMPP WAMP gibi. 
+<p align="center"><b>🔎 Projeyi hayata geçirmek için kullandığımız teknolojiler arasında HTML, CSS, JavaScript, PHP, SQL, veri tabanı ara yüzü olarakta phpMyadmin yer alıyor. Projeyi sorunsuz çalıştırabilmek için bir Apache sunucusuna ihtiyacınız var XAMPP WAMP gibi. 🔎</b></p> 
 
-⭐ Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır.
+<p align="center"><b>⭐ Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır. ⭐</b></p>
 
-🔰 spy-insta instagram account phisher logo & tanıtım videosu :
+<p align="center"><b>🔰 spy-insta instagram account phisher logo & tanıtım videosu :</b></p>
 
- <img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="560">
+ <p align="center"><b><img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="540"></b></p>
  
  ---
  
