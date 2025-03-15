@@ -18,10 +18,12 @@
 
 ---
 
-<p align="center"><b>🔰 spy-insta instagram account phisher logo & tanıtım videosu :</b></p>
+<p align="center"><b>🔰 spy-insta instagram account phisher logosu 🔰</b></p>
 
  <p align="center"><b><img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="540"></b></p>
  
  ---
+
+<p align="center"><b>🎥 spy-insta instagram account phisher tanıtım videosu 🎥</b></p>
  
  https://github.com/user-attachments/assets/33300dd3-21e0-4460-8906-709a251c733d
