@@ -2,7 +2,7 @@
 
 💬 Bu phishing modelinde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki asıl önemli olan input. Asıl şifreyi alabilmemiz için önemlidir, kurban buraya asıl instagram şifresini girecek.
 
-🔔 İkinci inputa ise yeni belirleyeceği şifreyi girmesini istedik, bu sayede tıpkı instagram şifreyi yenileme operasyonunun aynısını gerçekleştirdik. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre çünkü asıl şifre o. İkinci input'un da veri tabanına kayıt olmasının sebebi.
+🔔 İkinci inputa ise yeni belirleyeceği şifreyi girmesini istedik, bu sayede tıpkı instagram şifreyi yenileme operasyonunun aynısını gerçekleştirdik. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre çünkü asıl şifre o. İkinci input'un da veri tabanına kayıt olmasının sebebi;
 
 📂 Kurbanın şifre oluştururken ki mantığını çözmek, şifresini değiştirirken genelde aynı kombinasyonlarını mı kullanıyor? Yoksa tamamen farklı bir şifre mi oluşturuyor? Veri tabanına kayıt olmasında ki sebeplerinden biri de bu. Bu sayede kurbanın şifre oluşturmada ki düşünce tarzını anlayarak diğer platformlarda ki şifresini tahmin yolu ile alabilirsiniz.
 
