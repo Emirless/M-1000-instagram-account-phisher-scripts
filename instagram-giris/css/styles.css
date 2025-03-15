@@ -21,10 +21,6 @@ a { text-decoration: none; }
 h1 { margin: 20px 0; }
 ul { list-style: none; }
 
-/**
- * Flex rules
- */
-
 .flex {
     display: -webkit-box;
     display: -moz-box;
@@ -65,10 +61,6 @@ ul { list-style: none; }
     flex-wrap: wrap;
 }
 
-/**
- *
- */
-
 .panel {
     background-color: white;
     border: 1px solid #dbdbdb;
@@ -83,9 +75,6 @@ ul { list-style: none; }
     height: 618px;
 }
 
-/**
- * Login section
- */
 .login-with-fb,
 form { width: 100%; }
 
