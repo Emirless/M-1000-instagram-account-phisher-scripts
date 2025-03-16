@@ -7,9 +7,9 @@
 
 <p align="center"><b>🚀 İlk inputta sadece kullanıcı adı yerine kurbanın farklı bilgilerini girerse eğer onları da görebileceğiz. E posta, ve telefon numarası gibi. İkinci inputta ise kurbanın instagram şifresini alıyoruz. 🚀</b></p>
 
-<p align="center"><b>🔒 Bu sürümün en büyük artısı diğer sürümler ile (Özellikle 2FA) muazzam bir şekilde kordineli çalışması. Bu sürüm ile kurbanın kullanıcı adını, e postasını veya telefon numarasını aldınız diyelim. 🔒</b></p>
+<p align="center"><b>🔒 Bu sürümün en büyük artısı diğer sürümler ile (Özellikle instagram-2FA) muazzam bir şekilde kordineli çalışması. Bu sürüm ile kurbanın kullanıcı adını, e postasını veya telefon numarasını aldınız diyelim. 🔒</b></p>
 
-<p align="center"><b>⚙️ Ve giriş yapıyorsunuz fark ediyorsunuz ki hesapta 2FA açıkmış, karşınız da doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, Spy-İnsta instagram-2FA Phishing sürümü ile 6 haneli doğrulama kodunu aldıktan sonra hesaba tamamı ile erişiyorsunuz. ⚙️</b></p>
+<p align="center"><b>⚙️ Ve giriş yapıyorsunuz fark ediyorsunuz ki hesapta 2FA açık, karşınız da doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, Spy-İnsta instagram-2FA Phishing sürümü ile 6 haneli doğrulama kodunu aldıktan sonra hesaba tamamı ile erişiyorsunuz. ⚙️</b></p>
 
 ---
 
