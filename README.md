@@ -1,4 +1,4 @@
-<p align="center"><b>🎣 Spy-İnsta İnstagram Account Phisher 🎣</b></p>
+<p align="center"><b>🎣 Spy-İnsta İnstagram Account Phisher Hakkında 🎣</b></p>
 
 ---
 
