@@ -14,7 +14,7 @@
 
 <p align="center"><b>🌐 Projeyi hayata geçirmek için kullandığımız teknolojiler arasında; HTML, CSS, JavaScript, PHP, SQL, veri tabanı ara yüzü olarakta phpmyadmin yer alıyor. Projeyi sorunsuz çalıştırabilmek için bir Apache sunucusuna ihtiyacınız var XAMPP WAMP gibi. 🌐</b></p> 
 
-<p align="center"><b>📢 Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne atmanız, veri tabanı bağlantılarını sorunsuz yapmanız ve sunucu bağlantınızın olduğunuzdan emin olun aksi taktirde çalışmayacaktır. 📢</b></p>
+<p align="center"><b>📢 Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne attığınızdan, veri tabanı bağlantılarını sorunsuz yaptığınızdan, ve sunucu bağlantınızın sorunsuz olduğundan emin olun. Aksi taktirde çalışmayacaktır. 📢</b></p>
 
 ---
 
