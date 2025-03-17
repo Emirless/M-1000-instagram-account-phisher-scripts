@@ -39,6 +39,15 @@
 
 <p align="center"><b>🌙 Bir kişinin hesabına izinsiz girdiğiniz zaman hesap sahibine uyarı gider, eğer hesap sahibi onay vermezse oturumunuz sonlanır ve hesaptan atılırsınız. Bu sebeple hesap sahibinin uyuduğu, çalıştığı, okulda veya dershanede olduğu gibi meşgul zamanlar da kişinin cihazına erişim sağlayamadığı bir zamanda sizin erişim sağlamanız önemlidir. Aksi taktirde eliniz de olan erişimi de kaybedersiniz. 🌙</b></p>
 
+<p align="center"><b>🔧 Siteye alacağınız domain çok önemli, özgün bir domain olması çok daha mantıklı. "instagram" çakması bir domain veya 
+instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de olan domain adresleridir. Bu da otomatik olarak sizi hedef gösterir o yüzden alacağınız domain isimlerinde özgün ve kara listeler de olmadığından emin olduğunuz domainleri kullanın. 🔧</b></p>
+
+<p align="center"><b>💻 Google Phishing sitelerini sürekli olarak tarar bunu rutin bir şekilde düzenli olarak yaparlar. Sitenin davranışlarını izlerler, Zararlı JavaScript kodları var mı? Form işlemlerine bakarlar kullanıcıdan alınan veri nereye gidiyor? Ne oluyor gibi konulara bakarlar. Ve eğer yanlış bir şey keşfederlerse ve kullanıcılarda aynı şekilde siteyi şikayet ederlerse  💻</b></p>
+
+<p align="center"><b>⚙️ Ve eğer yanlış bir şey keşfederlerse ve kullanıcılarda aynı şekilde siteyi şikayet ederlerse site Safe Browsing veri tabanlarına alınır. Öyle olunca da siteye giren kullanıcılar Bağlantı güvenli değil uyarısını alıp siteyi terk ederler böyle olunca da saldırı'nın başarı oranı düşer. ⚙️</b></p>
+
+<p align="center"><b>🔒 Bu durumda ise ihtiyacınız olan veriyi aldıktan sonra siteyi imha etmeniz mantıklı bir hareket. Siteniz veri tabanlarına alınmadan önce, kullanıcılar şikayette bulunmadan önce, bağlantı güvenli değil damgası yemeden önce, google ve google botları tarafından tespit edilmeden önce istediğiniz veriyi elde edip siteyi imha etmeniz mantıklı bir yol. Sonrası için yeni özgün bir domain ile site içeriğini biraz daha kendinize göre düzenleyerek tekrardan kaldığınız yerden devam etmeniz mantıklı bir yol.🔒</b></p>
+
 ---
 
 <p align="center"><b><img src="https://github.com/user-attachments/assets/a4704b03-4423-4adf-aef4-97713f8ea58d" width="900"></b></p>
