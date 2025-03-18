@@ -77,3 +77,38 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 </p>
 
 ---
+
+<p align="center"><b>🛠️ Spy-İnsta Kurulum 🛠️</b></p>
+
+
+---
+
+<p align="center"><b>✔️ PHP Server Side odaklı bir dil olduğu için yani Back-End dili olduğu için ve Apache sunucusu üzerinden çalıştığı için bilgisayarınıza ayrı bir Apache sunucusu kurmanız gerekmekte. Bunun için XAMPP, WAMP gibi sunucular mevcut onların yardımı ile projeyi localhost üzerinden test edebilir, üzerinde değişiklik yapabilirsiniz. ✔️</b></p>
+
+<p align="center"><b>✔️ Aynı zamanda proje de veri tabanı bağlantısı bulunuyor, bilgisayarınıza kurmuş olduğunuz sunucunun kontrol panelinden veri tabanı bağlantısını açmanız gerekmekte. Aynı zamanda sunucu bağlantınızın olduğundan emin olun. Aksi taktir de çalışmayacaktır. ✔️</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3805b592-056a-4636-9cda-4d0a0ed3d2e2" width="900">
+</p>
+
+---
+
+<p align="center"><b>✔️ Üstte gösterdiğim gibi eğer veri tabanı bağlantısı doğru bir şekilde yapılmamış ise, sunucu kontrol panelinden bağlantıyı aktif etmemiş iseniz hata alma olasılığınız yüksek. Onun için veri tabanı bağlantınızın doğru olduğundan emin olun ve sunucu kontrol paneli üzerinden bağlantıyı açtığınızdan emin olun. ✔️</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb496d87-7a44-48b3-81a4-ead5e2e4507e" width="900">
+</p>
+
+---
+
+<p align="center"><b>✔️ Ben XAMPP kullandığım için XAMPP üzerinden anlatmaya devam edeceğim, sunucuyu kurduğunuz C veya D diskine de kurulu olan XAMPP klasörünün içerisinde htdocs klasörünün içerisine projeyi atmanız gerekmektedir aksi taktirde çalışmayacaktır. Doğru dizine ve klasöre attığınızdan emin olun. ✔️</b></p>
+
+<p align="center"><b>✔️ Bunları yapmadan önce phpmyadmin üzerinden bir veri tabanı oluşturmamız gerekmekte. Bunu sizlere verdiğim SQL komutları ile yapabilirsiniz. Ve oluşturduğunuz veri tabanı ismini, oluşturduğunuz veri tabanı dosyasının içerisinde doğru bir şekilde tanımlı olmasına dikkat edin. Aynı zamanda kurbanın bilgilerini veri tabanına kayıt ettirmemizi sağlayan INSERT INTO kısmında ki istenen tablo ve sütun isimlerini doğru bir şekilde girdiğinizden emin olun. Aksi taktirde veriler sütunlara yazdırılmayacaktır. ✔️</b></p>
+
+<p align="center"><b>✔️ Veri tabanı işlemlerini yaptığımız dosyayı asıl her şeyin döndüğü dosya yani index dosyası ile bağlantılı olduğundan emin olun. Dahil olduğundan emin olun onun için ise include(""); şeklinde tanımladığımız fonksiyonun içerisinin dolu ve doğru veri tabanı dosyası olduğundan emin olun. include("vtBaglanti.php"); gibi içerisinin dolu olduğundan ve doğru dosyanın olduğundan emin olsun aksi taktirde veri tabanı işlemleriniz başarısız olacaktır. ✔️</b></p>
+
+---
