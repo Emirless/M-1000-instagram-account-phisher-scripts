@@ -56,3 +56,30 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 <p align="center"><b><img src="https://github.com/user-attachments/assets/a4704b03-4423-4adf-aef4-97713f8ea58d" width="900"></b></p>
 
 ---
+
+<p align="center"><b>🛠️ Spy-İnsta Kurulum 🛠️</b></p>
+
+
+---
+
+<p align="center"><b>✔️PHP Server Side odaklı bir dil olduğu için yani Back-End dili olduğu için ve Apache sunucusu üzerinden çalıştığı için bilgisayarınıza ayrı bir Apache sunucusu kurmanız gerekmekte. Bunun için XAMPP, WAMP gibi sunucular mevcut onların yardımı ile projeyi localhost üzerinden test edebilir, üzerinde değişiklik yapabilirsiniz.✔️</b></p>
+
+<p align="center"><b>✔️Aynı zamanda proje de veri tabanı bağlantısı bulunuyor, bilgisayarınıza kurmuş olduğunuz sunucunun kontrol panelinden veri tabanı bağlantısını açmanız gerekmekte. Aynı zamanda sunucu bağlantınızın olduğundan emin olun. Aksi taktir de çalışmayacaktır.✔️</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9a1d7e3-910b-4c20-bb76-9825a60aabaf" width="900">
+</p>
+
+---
+
+<p align="center"><b>✔️Üstte gösterdiğim gibi eğer veri tabanı bağlantısı doğru bir şekilde yapılmamış ise, sunucu kontrol panelinden bağlantıyı aktif etmemiş iseniz hata alma olasılığınız yüksek. Onun için veri tabanı bağlantınızın doğru olduğundan emin olun ve sunucu kontrol paneli üzerinden bağlantıyı açtığınızdan emin olun. ✔️</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb496d87-7a44-48b3-81a4-ead5e2e4507e" width="900">
+</p>
+
+---
