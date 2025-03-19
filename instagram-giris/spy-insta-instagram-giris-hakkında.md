@@ -74,7 +74,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 ---
 
 
-<p align="center"><b>🛠️ Spy-İnsta Kurulum 🛠️</b></p>
+<p align="center"><b>🔨 Spy-İnsta Kurulum 🔨</b></p>
 
 
 ---
