@@ -57,7 +57,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 <p align="center"><b>🎲 %100 doğruluk payı olmasa da konumunuzu bildirim olarak göndermeyi unutmuyor. Bunu İP üzerinden yapıyor cihazın İP adresine göre, bunun için VPN kullanabilirsiniz. 🎲</b></p>
 
-<p align="center"><b>🌙 Bir kişinin hesabına izinsiz girdiğiniz zaman hesap sahibine uyarı gider, eğer hesap sahibi onay vermezse oturumunuz sonlanır ve hesaptan atılırsınız. Bu sebeple hesap sahibinin uyuduğu, çalıştığı, okulda veya dershanede olduğu gibi meşgul zamanlar da kişinin cihazına erişim sağlayamadığı bir zamanda sizin erişim sağlamanız önemlidir. Aksi taktirde eliniz de olan erişimi de kaybedersiniz. 🌙</b></p>
+<p align="center"><b>⚔️ Bir kişinin hesabına izinsiz girdiğiniz zaman hesap sahibine uyarı gider, eğer hesap sahibi onay vermezse oturumunuz sonlanır ve hesaptan atılırsınız. Bu sebeple hesap sahibinin uyuduğu, çalıştığı, okulda veya dershanede olduğu gibi meşgul zamanlar da kişinin cihazına erişim sağlayamadığı bir zamanda sizin erişim sağlamanız önemlidir. Aksi taktirde eliniz de olan erişimi de kaybedersiniz. ⚔️</b></p>
 
 <p align="center"><b>🎮 Siteye alacağınız domain çok önemli, özgün bir domain olması çok daha mantıklı. "instagram" çakması bir domain veya 
 instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de olan domain adresleridir. Bu da otomatik olarak sizi hedef gösterir o yüzden alacağınız domain isimlerinde özgün ve kara listeler de olmadığından emin olduğunuz domainleri kullanın. 🎮</b></p>
