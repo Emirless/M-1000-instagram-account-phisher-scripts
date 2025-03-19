@@ -16,7 +16,7 @@
 
 <p align="center"><b>📢 Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne attığınızdan, veri tabanı bağlantılarını sorunsuz yaptığınızdan, ve sunucu bağlantınızın sorunsuz olduğundan emin olun. Aksi taktirde çalışmayacaktır. 📢</b></p>
 
-<p align="center"><b>⚠️ Herhangi bir şekilde sorumluluk kabul etmiyorum, yapılan eylemlerden kişi sorumludur. ⚠️</b></p>
+<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, herhangi bir şekilde sorumluluk kabul etmiyorum yapılan eylemlerden kişi sorumludur. ⚠️</b></p>
 
 
 ---
