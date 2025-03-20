@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"><b>🎯 Özellikler 🎯</b></p>
+<p align="center"><b>🎯 Spy-İnsta İnstagram-Giriş Özellikleri 🎯</b></p>
 
 ---
 <p align="center"><b>✔️ Kurban 2 inputun içerisine eksiksiz veri girmek zorundadır aksi taktirde bir hata mesajı alacaktır, bu durumda kurbanın sizin istediğiniz gibi davranmasına, sizin istediğiniz şekilde hareket etmesine sebep olacaktır. Sadece tek bir input dolu olup giriş yap butonuna basarsa aynı hata mesajını tekrar alacaktır. ✔️</b></p>
@@ -74,7 +74,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 ---
 
 
-<p align="center"><b>🔨 Spy-İnsta Kurulum 🔨</b></p>
+<p align="center"><b>🔨 Spy-İnsta İnstagram-Giriş Kurulum 🔨</b></p>
 
 
 ---
@@ -109,7 +109,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>❗ Spy-İnsta Uyarı ❗</b></p>
+<p align="center"><b>❗ Spy-İnsta İnstagram-Giriş Uyarı ❗</b></p>
 
 ---
 
