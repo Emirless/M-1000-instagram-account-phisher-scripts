@@ -1,5 +1,3 @@
-<p align="center"><b><img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="310"></b></p>
-
 <p align="center"><b>🎣 Spy-İnsta İnstagram Account Phisher Hakkında 🎣</b></p>
 
 ---
@@ -22,6 +20,15 @@
 
 
 ---
+
+<p align="center"><b>🎨 Spy-İnsta İnstagram Account Phisher Logosu 🎨 </b></p>
+
+
+<p align="center"><b><img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="450"></b></p>
+
+---
+
+<p align="center"><b>🎬 Spy-İnsta İnstagram Account Phisher Tanıtım Videosu 🎬 </b></p>
  
 https://github.com/user-attachments/assets/4ee3e5ba-5d44-41e9-8edc-4ce8ed98b9b4
 
