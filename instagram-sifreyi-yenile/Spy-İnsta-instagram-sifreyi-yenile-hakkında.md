@@ -16,7 +16,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 ---
 
-<p align="center"><b>🔗 Özellikler 🔗</b></p>
+<p align="center"><b>🔗 Spy-İnsta İnstagram-Sifreyi-Yenile Özellikler 🔗</b></p>
 
 ---
 
@@ -78,7 +78,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>🔧 Spy-İnsta Kurulum 🔧</b></p>
+<p align="center"><b>🔧 Spy-İnsta İnstagram-Sifreyi-Yenile Kurulum 🔧</b></p>
 
 
 ---
@@ -113,7 +113,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>❌ Spy-İnsta Uyarı ❌</b></p>
+<p align="center"><b>❌ Spy-İnsta İnstagram-Sifreyi-Yenile Uyarı ❌</b></p>
 
 ---
 
