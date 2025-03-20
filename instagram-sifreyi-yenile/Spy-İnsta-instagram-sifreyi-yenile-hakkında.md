@@ -16,7 +16,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 ---
 
-<p align="center"><b>🔗 Spy-İnsta İnstagram-Sifreyi-Yenile Özellikler 🔗</b></p>
+<p align="center"><b>🔗 Spy-İnsta İnstagram-Sifreyi-Yenile Özellikleri 🔗</b></p>
 
 ---
 
