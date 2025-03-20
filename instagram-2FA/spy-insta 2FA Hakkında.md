@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"><b>📌 Spy-İnsta instagram-2FA Özellikleri 📌</b></p>
+<p align="center"><b>📌 Spy-İnsta İnstagram-2FA Özellikleri 📌</b></p>
 
 ---
 
