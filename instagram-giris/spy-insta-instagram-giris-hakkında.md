@@ -109,3 +109,10 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
+<p align="center"><b>❗ Spy-İnsta Uyarı ❗</b></p>
+
+---
+
+<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher instagram-giris projesi tamamı ile eğitim amaçlıdır, herhangi bir şekilde sorumluluk kabul etmiyorum yapılan eylemlerden kişi sorumludur. ⚠️</b></p>
+
+---
