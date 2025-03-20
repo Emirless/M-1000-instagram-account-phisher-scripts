@@ -112,3 +112,11 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 <p align="center"><b>✔️ Veri tabanı işlemlerini yaptığımız dosyayı asıl her şeyin döndüğü dosya yani index dosyası ile bağlantılı olduğundan emin olun. Dahil olduğundan emin olun onun için ise include(""); şeklinde tanımladığımız fonksiyonun içerisinin dolu ve doğru veri tabanı dosyası olduğundan emin olun. include("vtBaglanti.php"); gibi içerisinin dolu olduğundan ve doğru dosyanın olduğundan emin olsun aksi taktirde veri tabanı işlemleriniz başarısız olacaktır. ✔️</b></p>
 
 ---
+
+<p align="center"><b>❌ Spy-İnsta Uyarı ❌</b></p>
+
+---
+
+<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher instagram-sifreyi-yenile projesi tamamı ile eğitim amaçlıdır, herhangi bir şekilde sorumluluk kabul etmiyorum yapılan eylemlerden kişi sorumludur. ⚠️</b></p>
+
+---
