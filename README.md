@@ -25,7 +25,7 @@
 
 ---
 
-<p align="center"><b><img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="450"></b></p>
+<p align="center"><b><img src="https://github.com/user-attachments/assets/51fbac7f-a1db-452e-ab20-0455773d784e" width="440"></b></p>
 
 ---
 
