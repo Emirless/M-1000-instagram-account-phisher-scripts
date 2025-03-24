@@ -3,7 +3,7 @@
 ---
 <p align="center"><b>📇 spy-insta'nın bir diğer sürümü olan instagram giriş sürümü klasik bir phishing saldırısı yapmanıza olanak sağlayan bir sürümdür. Yıllardır gördüğümüz ve artık klasikleşmiş bir yöntem olup hala iş yapan bir yöntemdir giriş sayfası phishing yöntemi. 📇</b></p>
 
-<p align="center"><b>🔹 Burada amacımız instagram giriş sayfasını teklit ederek kurbanın tıpkı instagramın gerçek giriş sayfasından kendi hesabına giriş yapıyormuş gibi bir izlenim oluşturmak. 🔹</b></p>
+<p align="center"><b>🕸️ Burada amacımız instagram giriş sayfasını teklit ederek kurbanın tıpkı instagramın gerçek giriş sayfasından kendi hesabına giriş yapıyormuş gibi bir izlenim oluşturmak. 🕸️</b></p>
 
 <p align="center"><b>🚀 İlk inputta sadece kullanıcı adı yerine kurbanın farklı bilgilerini girerse eğer onları da görebileceğiz. E posta, ve telefon numarası gibi. İkinci inputta ise kurbanın instagram şifresini alıyoruz. 🚀</b></p>
 
