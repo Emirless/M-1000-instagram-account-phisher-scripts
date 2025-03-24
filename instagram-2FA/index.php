@@ -10,6 +10,8 @@
 // --                            Github: https://l24.im/RpHLQx              -- \\
 // --                            Forum Profil Linki: https://l24.im/dNx8    -- \\
 // --                            Tanıtım Videosu Linki: https://l24.im/GZI0h -- \\
+// --                            Linktree: https://l24.im/m7tj               -- \\
+
 
 include("vtBaglanti.php");
 
