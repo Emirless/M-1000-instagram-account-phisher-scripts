@@ -13,6 +13,11 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 <p align="center"><b>⚙️ Çünkü aynı şifre kombinasyonlarını farklı platformlar için kullanan bir çok insan var, sayıların yerleri değiştirmiş olabilir, veya önceliği sayılara vermiştir. ! - _ # + $ % & ~ , ; gibi şeyler kullanmıştır gibi. Denildiği gibi ilk input şifreyi almak için ikinci input ise kurbanın şifre oluştururken ki psikolojisini anlamak. ⚙️</b></p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5712201d-1f47-4998-8704-f80568f5c9da" width="900">
+</p>
 
 ---
 
