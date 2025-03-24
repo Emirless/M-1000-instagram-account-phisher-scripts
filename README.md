@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><b>🔨 Spy-İnsta, instagram hesaplarına Phishing saldırısı yapabilmenize yardımcı olacak bir phishing pack. İçerisinde günümüzün baş belası 6 haneli 2FA doğrulama kodunu kurbandan alabilmenizi sağlayan bir yardımcı pack bulunuyor, aynı zamanda instagram giriş, şifre sıfırlama sürümleri de bulunduruyor içerisinde. 🔨</b></p> 
+<p align="center"><b>🕸️ Spy-İnsta, instagram hesaplarına Phishing saldırısı yapabilmenize yardımcı olacak bir phishing pack. İçerisinde günümüzün baş belası 6 haneli 2FA doğrulama kodunu kurbandan alabilmenizi sağlayan bir yardımcı pack bulunuyor, aynı zamanda instagram giriş, şifre sıfırlama sürümleri de bulunduruyor içerisinde. 🕸️</b></p> 
 
 <p align="center"><b>⚔️ Yani tek bir şey ile sınırlı değilsiniz, isterseniz kordineli bir şekilde kullanmanız mümkün. Örnek bir senaryo; Kurbanın ilk önce instagram giriş packi sayesinde kullanıcı adını ve şifresini aldınız. ⚔️</b></p>
 
