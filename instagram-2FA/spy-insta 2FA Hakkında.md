@@ -19,7 +19,7 @@
 
 <p align="center"><b>✔️ Kurban inputun içerisine 6 sayı uzunluğunda bir değer girmediği sürece buton aktif olmayacaktır, bunun sebebi; 6 haneli doğrulama kodunu eksiksiz bir şekilde almamız. Hem de olası durumlarda olası bir yanlış yönlendirme yaşanmaması adına, + olarak veri tabanına gereksiz ve değersiz verilerin yazılmaması için. ✔️</b></p>
 
-<p align="center"><b>✔️ Hesabın yok mu? Kısmında ki "Kaydol" butonuna basarsa instagramın gerçek kaydol sayfasına yönlendirilir. ✔️</b></p>
+<p align="center"><b>✔️ Hesabın yok mu? Kısmında ki "Kaydol" butonuna tıklanırsa instagramın gerçek kaydol sayfasına yönlendirilir. ✔️</b></p>
 
 <p align="center"><b>✔️  "Uygulamayı indir" kısmında ki market linklerine tıklanırsa gerçek marketlere yönlendirilir. App Store linkine tıklanırsa App Store'a yönlendirilir, Google Play Store linkine tıklanırsa Google Play Store'a yönlendirilir. ✔️</b></p>
 
