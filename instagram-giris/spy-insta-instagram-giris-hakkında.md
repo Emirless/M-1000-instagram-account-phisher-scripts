@@ -22,7 +22,7 @@
 <p align="center"><b>🎯 Spy-İnsta İnstagram-Giriş Özellikleri 🎯</b></p>
 
 ---
-<p align="center"><b>✔️ Kurban 2 inputun içerisine eksiksiz veri girmek zorundadır aksi taktirde bir hata mesajı alacaktır, bu durumda kurbanın sizin istediğiniz gibi davranmasına, sizin istediğiniz şekilde hareket etmesine sebep olacaktır. Sadece tek bir input dolu olup giriş yap butonuna basarsa aynı hata mesajını tekrar alacaktır. ✔️</b></p>
+<p align="center"><b>✔️ Kurban 2 inputun içerisine eksiksiz veri girmek zorundadır aksi taktirde bir hata mesajı alacaktır, bu durumda kurbanın sizin istediğiniz gibi davranmasına, sizin istediğiniz şekilde hareket etmesine sebep olacaktır. Sadece tek bir input dolu olup giriş yap butonuna tıklanrısa aynı hata mesajını tekrar alacaktır. ✔️</b></p>
 
   <p align="center">
    <img width="900" alt="Image" src="https://github.com/user-attachments/assets/28fb2f9f-5774-4abd-9663-243c163f7f78" />
