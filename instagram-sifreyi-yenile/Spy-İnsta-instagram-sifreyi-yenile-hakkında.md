@@ -11,7 +11,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 <p align="center"><b>📂 Kurbanın şifre oluştururken ki mantığını çözmek, şifresini değiştirirken genelde aynı kombinasyonlarını mı kullanıyor? Yoksa tamamen farklı bir şifre mi oluşturuyor? Veri tabanına kayıt olmasında ki sebeplerinden biri de bu. Bu sayede kurbanın şifre oluşturmada ki düşünce tarzını anlayarak diğer platformlarda ki şifresini tahmin yolu ile alabilirsiniz. 📂</b></p>
 
 
-<p align="center"><b>⚙️ Çünkü aynı şifre kombinasyonlarını farklı platformlar için kullanan bir çok insan var, sayıların yerleri değiştirmiş olabilir, veya önceliği sayılara vermiştir. ! - _ # + $ % & ~ , ; gibi şeyler kullanmıştır gibi. Denildiği gibi ilk input şifreyi almak için ikinci input ise kurbanın şifre oluştururken ki psikolojisini anlamak. ⚙️</b></p>
+<p align="center"><b>⚙️ Çünkü aynı şifre kombinasyonlarını farklı platformlar için kullanan bir çok insan var, sayıların yerleri değiştirmiş olabilir, veya önceliği sayılara vermiştir. ! - _ # + $ % & ~ , ' ; " gibi şeyler kullanmıştır gibi. Denildiği gibi ilk input şifreyi almak için ikinci input ise kurbanın şifre oluştururken ki psikolojisini anlamak. ⚙️</b></p>
 
 ---
 
@@ -25,7 +25,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 ---
 
-<p align="center"><b>✔️ Kurban inputların içerisini boş bırakamaz, ve eğer boş bırakıp direkt olarak "Şifreyi yenile" butonuna basarsa hiçbir şey olmaz. Yönlendirme yaşanmaz, veri tabanına eksik veri yazılmaz. Bunun sebebi olayı açığa çıkartmamak için, ve kurban gerekildiği gibi uyarılır. Sizin istediğiniz gibi davranır. ✔️</b></p>
+<p align="center"><b>✔️ Kurban inputların içerisini boş bırakamaz, ve eğer boş bırakıp direkt olarak "Şifreyi yenile" butonuna basarsa hiçbir şey olmaz. Yönlendirme yaşanmaz, veri tabanına eksik veri yazılmaz. Bunun sebebi olayı açığa çıkartmamak için, kurban gerekildiği gibi uyarılır. Sizin istediğiniz gibi davranır. ✔️</b></p>
 
 <p align="center">
   <img width="900" alt="Image" src="https://github.com/user-attachments/assets/54f8e2d8-225b-4c20-8bd2-2866916ef261" />
@@ -45,9 +45,9 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
   <img width="900" alt="Image" src="https://github.com/user-attachments/assets/dbe54565-83d8-42df-9ab9-1ec8919a5fec" />
 </p>
 
-<p align="center"><b>✔️ Eğer kurban üstte ki gibi inputların içerisini eksiksiz ve sorunsuz doldurmuşsa başarılı uyarısını altıktan sonra tamam'a basarsa 0.7 saniye sonra hesabının ana sayfasına yönlendirilecektir. ✔️</b></p>
+<p align="center"><b>✔️ Eğer kurban üstte ki gibi inputların içerisini eksiksiz ve sorunsuz doldurmuşsa başarılı uyarısını altıktan sonra tamam'a tıklarsa 0.7 saniye sonra instagram hesabının ana sayfasına yönlendirilecektir. ✔️</b></p>
 
-<p align="center"><b>✔️ 0.7 saniye içerisinde hem input içinde ki veriler veri tabanına yazdırılacak hem de kurbanın instagram hesabının ana sayfasına yönlendirilecektir. ✔️</b></p>
+<p align="center"><b>✔️ 0.7 saniye içerisinde hem input içerisinde ki veriler veri tabanına yazdırılacak hem de kurbanın instagram hesabının ana sayfasına yönlendirilecektir. ✔️</b></p>
 
 
 <p align="center"><b>✔️ Sadece PC kullanıcılarını hedef almayarak mobil kullanıcılar da hedef alınmıştır, bu sebeple projenin responsive design kısmı iyi yapılmıştır. ✔️</b></p>
