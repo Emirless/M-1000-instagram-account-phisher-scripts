@@ -25,13 +25,13 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 ---
 
-<p align="center"><b>✔️ Kurban inputların içerisini boş bırakamaz, ve eğer boş bırakıp direkt olarak "Şifreyi yenile" butonuna basarsa hiçbir şey olmaz. Yönlendirme yaşanmaz, veri tabanına eksik veri yazılmaz. Bunun sebebi olayı açığa çıkartmamak için, kurban gerekildiği gibi uyarılır. Sizin istediğiniz gibi davranır. ✔️</b></p>
+<p align="center"><b>✔️ Kurban inputların içerisini boş bırakamaz, eğer boş bırakıp direkt olarak "Şifreyi yenile" butonuna tıklanırsa hiçbir şey olmaz. Yönlendirme yaşanmaz, veri tabanına eksik veri yazılmaz. Bunun sebebi olayı açığa çıkartmamak için, kurban gerekildiği gibi uyarılır. Sizin istediğiniz gibi davranır. ✔️</b></p>
 
 <p align="center">
   <img width="900" alt="Image" src="https://github.com/user-attachments/assets/54f8e2d8-225b-4c20-8bd2-2866916ef261" />
 </p>
 
-<p align="center"><b>✔️ Aynı durum tek bir input içinde geçerli, örneğin kurban sadece ilk inputun içerisini doldurmuştur ve ikinci input boş kalmıştır ona rağmen yine de şifreyi yenile butonuna basmıştır. Aynı uyarı tekrar verilir, gerekli uyarı tekrar yapılır ve kurbanın istediğiniz gibi davranmasını sağlar. ✔️</b></p>
+<p align="center"><b>✔️ Aynı durum tek bir input içinde geçerli, örneğin kurban sadece ilk inputun içerisini doldurmuştur ve ikinci input boş kalmıştır ona rağmen yine de şifreyi yenile butonuna tıklamıştır. Aynı uyarı tekrar verilir, gerekli uyarı tekrar yapılır ve kurbanın istediğiniz gibi davranmasını sağlar. ✔️</b></p>
 
 <p align="center"><b>✔️ İki inputa yazılan veri sorunsuzca veri tabanına yazdırılır, ve rahatlıkla görebilmenizi sağlar. Bu sayede kurbanın şifresi ve şifre oluşturmda ki mantığını ve psikolojisini anlayabileceksiniz aynı zamanda şifresini de öğrenmiş olacaksınız. ✔️</b></p>
 
