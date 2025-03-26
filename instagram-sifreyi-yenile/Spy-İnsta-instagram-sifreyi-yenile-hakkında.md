@@ -3,9 +3,9 @@
 ---
 <p align="center"><b>💻 spy-insta'nın bir başka packi olan instagram-sifreyi-yenile packi kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir pack, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
 
-<p align="center"><b>💬 Bu phishing modelinde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki asıl önemli olan input. Asıl şifreyi alabilmemiz için önemlidir, kurban buraya asıl instagram şifresini girecek. 💬</b></p>
+<p align="center"><b>💬 Bu phishing modelinde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki kurbanın asıl instagram şifresini alabilmemiz için önemli olan input. Kurbanın asıl şifresini alabilmemizi sağlayan input, kurban buraya asıl instagram şifresini girecektir. 💬</b></p>
 
-<p align="center"><b>🔔 İkinci inputa ise yeni oluşturmak istediği şifreyi girmesini istedik, bu sayede tıpkı instagram şifreyi yenileme operasyonunun aynısını gerçekleştirdik. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre, çünkü asıl şifre o. İkinci input'un 
+<p align="center"><b>🔔 İkinci inputa ise kurbanın yeni oluşturmak istediği şifreyi girmesini istedik, bu sayede tıpkı instagram şifre yenileme işlemlerinin aynısını gerçekleştirmiş olduk. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre, çünkü asıl şifre o. İkinci input'un 
 içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p>
 
 <p align="center"><b>📂 Kurbanın şifre oluştururken ki mantığını çözmek, şifresini değiştirirken genelde aynı kombinasyonlarını mı kullanıyor? Yoksa tamamen farklı bir şifre mi oluşturuyor? Veri tabanına kayıt olmasında ki sebeplerinden biri de bu. Bu sayede kurbanın şifre oluşturmada ki düşünce tarzını anlayarak diğer platformlarda ki şifresini tahmin yolu ile alabilirsiniz. 📂</b></p>
