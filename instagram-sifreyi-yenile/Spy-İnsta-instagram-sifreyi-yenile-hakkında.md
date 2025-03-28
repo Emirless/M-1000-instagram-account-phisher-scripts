@@ -118,7 +118,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 <p align="center"><b>✔️ Bunları yapmadan önce phpmyadmin üzerinden bir veri tabanı oluşturmamız gerekmekte. Bunu sizlere verdiğim SQL komutları ile yapabilirsiniz. Ve oluşturduğunuz veri tabanı ismini, oluşturduğunuz veri tabanı dosyasının içerisinde doğru bir şekilde tanımlı olmasına dikkat edin. Aynı zamanda kurbanın bilgilerini veri tabanına kayıt ettirmemizi sağlayan INSERT INTO kısmında ki istenen tablo ve sütun isimlerini doğru bir şekilde girdiğinizden emin olun. Aksi taktirde veriler sütunlara yazdırılmayacaktır. ✔️</b></p>
 
-<p align="center"><b>✔️ Veri tabanı işlemlerini yaptığımız dosyayı asıl her şeyin döndüğü dosya yani index dosyası ile bağlantılı olduğundan emin olun. Dahil olduğundan emin olun onun için ise include(""); şeklinde tanımladığımız fonksiyonun içerisinin dolu ve doğru veri tabanı dosyası olduğundan emin olun. include("vtBaglanti.php"); gibi içerisinin dolu olduğundan ve doğru dosyanın olduğundan emin olsun aksi taktirde veri tabanı işlemleriniz başarısız olacaktır. ✔️</b></p>
+<p align="center"><b>✔️ Veri tabanı işlemlerini yaptığımız dosyayı asıl her şeyin döndüğü dosya yani index dosyası ile bağlantılı olduğundan emin olun. Dahil olduğundan emin olun onun için ise include(""); şeklinde tanımladığımız fonksiyonun içerisinin dolu ve doğru veri tabanı dosyası olduğundan emin olun. include("DBconn.php"); gibi içerisinin dolu olduğundan ve doğru dosyanın olduğundan emin olsun aksi taktirde veri tabanı işlemleriniz başarısız olacaktır. ✔️</b></p>
 
 ---
 
