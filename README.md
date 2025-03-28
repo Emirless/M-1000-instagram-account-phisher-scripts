@@ -2,11 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=emirless-blackpion&color=blue" alt="spy insta" />
 </p> 
 
-<p style="text-align: center;">
-  <img src="https://img.shields.io/github/stars/Emirless/spy-insta-instagram-account-phisher?style=for-the-badge" alt="GitHub Repo stars">
-</p>
-
-
 <p align="center"><b>🎣 Spy-İnsta İnstagram Account Phisher Hakkında 🎣</b></p>
 
 ---
