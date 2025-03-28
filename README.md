@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/Emirless" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c5dd6090-a4ae-4bdf-9070-f86582da6327" width="100">
+    <img src="https://github.com/user-attachments/assets/c5dd6090-a4ae-4bdf-9070-f86582da6327" width="105">
   </a>
 </p>
 
