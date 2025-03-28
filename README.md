@@ -16,7 +16,7 @@
 
 <p align="center"><b>💾 Bu sayede kurban ilk inputun içerisine gerçek instagram şifresini yazacaktır, 2. inputa ise yeni oluşturmak istediği şifreyi yazacaktır, ve biz de hem eski şifresini hem de yeni belirlemiş olduğu şifresini veri tabanına yazdırarak kolaylıkla görebileceğiz. 💾</b></p>
 
-<p align="center"><b>🌐 Projeyi hayata geçirmek için kullandığımız teknolojiler arasında; HTML, CSS, JavaScript, PHP, SQL, veri tabanı ara yüzü olarakta phpmyadmin yer alıyor. Projeyi sorunsuz çalıştırabilmek için bir Apache sunucusuna ihtiyacınız var XAMPP WAMP gibi. 🌐</b></p> 
+<p align="center"><b>🌐 Projeyi hayata geçirmek için kullandığımız teknolojiler arasında; HTML, CSS, JavaScript, PHP, SQL, veri tabanı ara yüzü olarakta phpmyadmin yer alıyor. Projeyi sorunsuz çalıştırabilmek için bir Apache sunucusuna ihtiyacınız var XAMPP, WAMP gibi. 🌐</b></p> 
 
 <p align="center"><b>📢 Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne attığınızdan, veri tabanı bağlantılarını sorunsuz yaptığınızdan, ve sunucu bağlantınızın sorunsuz olduğundan emin olun. Aksi taktirde çalışmayacaktır. 📢</b></p>
 
