@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=instagram-giris&color=blue" alt="spy insta" />
+</p>
+
 <p align="center"><b>🎣 Spy-İnsta İnstagram Giriş Phishing Hakkında 🎣</b></p>
 
 ---
