@@ -92,14 +92,6 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>⛔ Spy-İnsta İnstagram-2FA Uyarı ⛔</b></p>
-
----
-
-<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher instagram-2FA projesi tamamı ile eğitim amaçlıdır, herhangi bir şekilde sorumluluk kabul etmiyorum yapılan eylemlerden kişi sorumludur. ⚠️</b></p>
-
----
-
 <p align="center"><b>🌲 Spy İnsta Linktree 🌲</b></p>
 
 
@@ -110,5 +102,13 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
     <img src="https://github.com/user-attachments/assets/c3f6873b-4d8a-4afa-802e-f28025ece608" width="90">
   </a>
 </p>
+
+---
+
+<p align="center"><b>⛔ Spy-İnsta İnstagram-2FA Uyarı ⛔</b></p>
+
+---
+
+<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher instagram-2FA projesi tamamı ile eğitim amaçlıdır, herhangi bir şekilde sorumluluk kabul etmiyorum yapılan eylemlerden kişi sorumludur. ⚠️</b></p>
 
 ---
