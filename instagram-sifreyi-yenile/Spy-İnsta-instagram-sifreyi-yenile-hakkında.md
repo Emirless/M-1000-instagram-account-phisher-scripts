@@ -130,14 +130,9 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>🌲 Spy İnsta Linktree 🌲</b></p>
-
-
----
-
 <p align="center">
   <a href="https://linktr.ee/Emirless" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c3f6873b-4d8a-4afa-802e-f28025ece608" width="90">
+    <img src="https://github.com/user-attachments/assets/c5dd6090-a4ae-4bdf-9070-f86582da6327" width="105">
   </a>
 </p>
 
