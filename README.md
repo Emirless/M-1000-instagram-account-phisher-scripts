@@ -38,11 +38,24 @@
 
 <p align="center"><b>🎯 Spy-İnsta Nedir? 🎯</b></p>
 
-<p align="center"><b>📍 Spy-İnsta, içerisinde 3 farklı sürüm bulunan bir phishing packtir, bu sayede instagram hesaplarına kolay bir şekilde phishing saldırısı yapabilmenize olanak sağlıyor. Sürümleri kordineli bir şekilde kullanmanız saldırının başarı oranını artırır. 📍 </b></p>
+<p align="center"><b>✔️ Spy-İnsta, içerisinde 3 farklı sürüm bulunan bir phishing packtir, bu sayede instagram hesaplarına kolay bir şekilde phishing saldırısı yapabilmenize olanak sağlıyor. Sürümleri kordineli bir şekilde kullanmanız saldırının başarı oranını artırır. ✔️</b></p>
 
 <p align="center"><b>🎯 Spy-İnsta Ne Amaçla Kullanılır? 🎯</b></p>
 
-<p align="center"><b>📍 Spy-İnsta, tamamı ile eğitim amaçlı olup instagram hesaplarına yönelik phishing saldırıları için kullanılan ve içerisinde 3 adet sürüm bulunduran bir phishing packtir. spy-insta instagram hesaplarına yönelik phishing saldırılarında kişilerin tecrübe kazanmalarını hedefler. Kurban'nın her linke tıklayıp verilerini girmemesi gerektiğini öğretirken, saldırganların ise kişisel verileri kolay bir şekilde çalabilmelerini öğretip tecrübe kazandırır. 📍 </b></p>
+<p align="center"><b>✔️ Spy-İnsta, tamamı ile eğitim amaçlı olup instagram hesaplarına yönelik phishing saldırıları için kullanılan ve içerisinde 3 adet sürüm bulunduran bir phishing packtir. spy-insta instagram hesaplarına yönelik phishing saldırılarında kişilerin tecrübe kazanmalarını hedefler. Kurban'nın her linke tıklayıp verilerini girmemesi gerektiğini öğretirken, saldırganların ise kişisel verileri kolay bir şekilde çalabilmelerini öğretip tecrübe kazandırır. ✔️</b></p>
+
+<p align="center"><b>🎯 Spy-İnsta Bizden Kişisel Veri Talep Eder Mi? 🎯</b></p>
+
+<p align="center"><b>✔️ Hayır, Spy-İnsta sürümlerinin klon ve sahte olmadığından emin olun. Çünkü Spy-İnsta sizden hiçbir şekilde kişisel veri talep etmez. Kişisel veri talep eden klon veya sahte sürümlerden uzak durun.✔️</b></p>
+
+<p align="center"><b>🎯 Spy-İnsta İle İnstagram Hesabı Çalabilir Miyim? 🎯</b></p>
+
+<p align="center"><b>✔️ Evet, 3 farklı sürümü sayesinde instagram hesabı çalmanız mümkün, burada önemli olan design ettiğiniz operasyonun kusursuz olup sürümleri kordineli bir şekilde kullanmanız. 
+operasyonu yani phishing saldırısını siz design edip sürümleri kordineli bir şekilde kullandığınız için hedeflediğiniz instagram hesabını çalma olasılığınız bir hayli yüksek.✔️</b></p>
+
+<p align="center"><b>🎯 Spy-İnsta İle Hedef Kişiden Aldığımız Veriler Nerede Depolanır? 🎯</b></p>
+
+<p align="center"><b>✔️ Spy-İnsta ile hedef kişiden aldığınız veriler oluşturacağınız veri tabanına ve tablolara kayıt olur. Size verdiğim SQL komutları ile bir adet veri tabanı ve tablo oluşturacaksınız, ve gerekli bağlantıları yaptıktan sonra her bir hedeflediğiniz kişinin verisi sizin oluşturmuş olduğunuz veri tabanının tablolarına kayıt olacaktır. Bu sayede hedef kişinin verilerini kolay bir şekilde görebileceksiniz.✔️</b></p>
 
 ---
 
