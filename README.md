@@ -51,7 +51,7 @@
 <p align="center"><b>🎯 Spy-İnsta İle İnstagram Hesabı Çalabilir Miyim? 🎯</b></p>
 
 <p align="center"><b>✔️ Evet, 3 farklı sürümü sayesinde instagram hesabı çalmanız mümkün, burada önemli olan design ettiğiniz operasyonun kusursuz olup sürümleri kordineli bir şekilde kullanmanız. 
-operasyonu yani phishing saldırısını siz design edip sürümleri kordineli bir şekilde kullandığınız için hedeflediğiniz instagram hesabını çalma olasılığınız bir hayli yüksek.✔️</b></p>
+Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli bir şekilde kullandığınız için hedeflediğiniz instagram hesabını çalma olasılığınız bir hayli yüksek.✔️</b></p>
 
 <p align="center"><b>🎯 Spy-İnsta İle Hedef Kişiden Aldığımız Veriler Nerede Depolanır? 🎯</b></p>
 
