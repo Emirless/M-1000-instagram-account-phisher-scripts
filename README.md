@@ -55,7 +55,7 @@ Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli b
 
 <p align="center"><b>🎯 Spy-İnsta İle Hedef Kişiden Aldığımız Veriler Nerede Depolanır? 🎯</b></p>
 
-<p align="center"><b>✔️ Spy-İnsta ile hedef kişiden aldığınız veriler oluşturacağınız veri tabanına ve tablolara kayıt olur. Size verdiğim SQL komutları ile bir adet veri tabanı ve tablo oluşturacaksınız, ve gerekli bağlantıları yaptıktan sonra her bir hedeflediğiniz kişinin verisi sizin oluşturmuş olduğunuz veri tabanının tablolarına kayıt olacaktır. Bu sayede hedef kişinin verilerini kolay bir şekilde görebileceksiniz.✔️</b></p>
+<p align="center"><b>✔️ Spy-İnsta ile hedef kişiden aldığınız veriler oluşturacağınız veri tabanının tablolarına kayıt olur. Size verdiğim SQL komutları ile bir adet veri tabanı ve tablo oluşturacaksınız, gerekli bağlantıları yaptıktan sonra her bir hedeflediğiniz kişinin verileri sizin oluşturmuş olduğunuz veri tabanının tablolarına kayıt olacaktır. Bu sayede hedef kişinin verilerini kolay bir şekilde görebileceksiniz.✔️</b></p>
 
 ---
 
