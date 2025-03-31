@@ -32,6 +32,20 @@
 
 ---
 
+<p align="center"><b>📌 Spy-İnsta Sıkça Sorulan Sorular 📌</b></p>
+
+---
+
+<p align="center"><b>💬 Spy-İnsta Nedir? 💬</b></p>
+
+<p align="center"><b>📝 Spy-İnsta, içerisinde 3 farklı sürüm bulunan bir phishing packtir, bu sayede instagram hesaplarına kolay bir şekilde phishing saldırısı yapabilmenize olanak sağlıyor. Sürümleri kordineli bir şekilde kullanmanız saldırının başarı oranını artırır. 📝 </b></p>
+
+<p align="center"><b>💬 Spy-İnsta Ne Amaçla Kullanılır? 💬</b></p>
+
+<p align="center"><b>📝 Spy-İnsta, tamamı ile eğitim amaçlı olup instagram hesaplarına yönelik phishing saldırıları için kullanılan ve içerisinde 3 adet sürüm bulunduran bir phishing packtir. spy-insta instagram hesaplarına yönelik phishing saldırılarında kişilerin tecrübe kazanmalarını hedefler. Kurban'nın her linke tıklayıp verilerini girmemesi gerektiğini öğretirken, saldırganların ise kişisel verileri kolay bir şekilde çalabilmelerini öğretip tecrübe kazandırır. 📝 </b></p>
+
+---
+
 <p align="center"><b>🎨 Spy-İnsta İnstagram Account Phisher Logosu 🎨 </b></p>
 
 ---
