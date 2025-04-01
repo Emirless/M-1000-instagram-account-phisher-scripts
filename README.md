@@ -65,6 +65,12 @@ Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli b
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88c7c92c-c19d-4aed-ba11-3de0a6fef625" width="900">
+</p>
+
+---
+
 <p align="center"><b>🎨 Spy-İnsta İnstagram Account Phisher Logosu 🎨 </b></p>
 
 ---
