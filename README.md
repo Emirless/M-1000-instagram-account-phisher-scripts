@@ -52,16 +52,28 @@
 
 <p align="center"><b>🎯 Spy-İnsta Bizden Kişisel Veri Talep Eder Mi? 🎯</b></p>
 
-<p align="center"><b>✔️ Hayır, Spy-İnsta sürümlerinin klon ve sahte olmadığından emin olun. Çünkü Spy-İnsta sizden hiçbir şekilde kişisel veri talep etmez. Kişisel veri talep eden klon veya sahte sürümlerden uzak durun.✔️</b></p>
+<p align="center"><b>✔️ Hayır, Spy-İnsta sürümlerinin klon ve sahte olmadığından emin olun. Çünkü Spy-İnsta sizden hiçbir şekilde kişisel veri talep etmez. Kişisel veri talep eden klon veya sahte sürümlerden uzak durun. ✔️</b></p>
 
 <p align="center"><b>🎯 Spy-İnsta İle İnstagram Hesabı Çalabilir Miyim? 🎯</b></p>
 
 <p align="center"><b>✔️ Evet, 3 farklı sürümü sayesinde instagram hesabı çalmanız mümkün, burada önemli olan design ettiğiniz operasyonun kusursuz olup sürümleri kordineli bir şekilde kullanmanız. 
-Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli bir şekilde kullandığınız için hedeflediğiniz instagram hesabını çalma olasılığınız bir hayli yüksek.✔️</b></p>
+Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli bir şekilde kullandığınız için hedeflediğiniz instagram hesabını çalma olasılığınız bir hayli yüksek. ✔️</b></p>
 
 <p align="center"><b>🎯 Spy-İnsta İle Hedef Kişiden Aldığımız Veriler Nerede Depolanır? 🎯</b></p>
 
-<p align="center"><b>✔️ Spy-İnsta ile hedef kişiden aldığınız veriler oluşturacağınız veri tabanının tablolarına kayıt olur. Size verdiğim SQL komutları ile bir adet veri tabanı ve tablo oluşturacaksınız, gerekli bağlantıları yaptıktan sonra her bir hedeflediğiniz kişinin verileri sizin oluşturmuş olduğunuz veri tabanının tablolarına kayıt olacaktır. Bu sayede hedef kişinin verilerini kolay bir şekilde görebileceksiniz.✔️</b></p>
+<p align="center"><b>✔️ Spy-İnsta ile hedef kişiden aldığınız veriler oluşturacağınız veri tabanının tablolarına kayıt olur. Size verdiğim SQL komutları ile bir adet veri tabanı ve tablo oluşturacaksınız, gerekli bağlantıları yaptıktan sonra her bir hedeflediğiniz kişinin verileri sizin oluşturmuş olduğunuz veri tabanının tablolarına kayıt olacaktır. Bu sayede hedef kişinin verilerini kolay bir şekilde görebileceksiniz. ✔️</b></p>
+
+<p align="center"><b>🎯 Spy-İnsta Nasıl Kurulur? 🎯</b></p>
+
+<p align="center"><b>✔️ Spy-İnsta projesini kurmak için, hayata geçirmek için bir adet domain ve hosting satın almanız gerekmekte. Gerekli bağlantıları yaptıktan sonra proje kurulup hayata geçmiş olacaktır. Domain ve hostingi bizim almamızın sebebi; Hedef belirlediğimiz kişinin domainden dolayı phishing saldırısı olup olmadığını anlamaması. Çünkü tool'ların bize verdiği linklerde ki domain isimleri olayı büyük etkide baltalıyor amacımız da bunun önüne geçmek. O sebepten özgün bir domain seçmeniz önerilir. Alacağınız domain adresinin kara liste de olmadığından emin olun, ve yurt dışından almaya özen gösterin. ✔️</b></p>
+
+<p align="center"><b>🎯 Spy-İnsta İşe Yarıyor Mu? 🎯</b></p>
+
+<p align="center"><b>✔️ Evet, Spy-İnsta sürümlerini kordineli ve iyi bir şekilde kullanıldığı zaman işe yarayan bir proje. Aslında işe yarayıp yaramaması size kalmış. Phishing saldırısı yaparken design ettiğiniz operasyon, oluşturduğunuz senaryo, kullanmış olduğunuz kurumsal dil, hedef belirlediğiniz kişiyi manipüle etmek için topladığınız veriler phishing saldırısının başarı ile sonuçlanması için büyük bir artı sağlıyor. Ve Spy-İnsta sürümleri de bu artıya katkı sağlıyor. ✔️</b></p>
+
+<p align="center"><b>🎯 Spy-İnsta Ücretli Mi? 🎯</b></p>
+
+<p align="center"><b>✔️ Hayır, Sizden ücret isteyen klon veya çalıntı Spy-İnsta sürümlerinden uzak durun, çünkü Spy-İnsta tamamı ile açık kaynak kodlu bir proje olup sizden herhangi bir şekilde ücret talep etmez. ✔️</b></p>
 
 ---
 
