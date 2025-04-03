@@ -65,7 +65,7 @@ Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli b
 
 <p align="center"><b>🎯 Spy-İnsta Nasıl Kurulur? 🎯</b></p>
 
-<p align="center"><b>✔️ Spy-İnsta projesini kurmak için, hayata geçirmek için bir adet domain ve hosting satın almanız gerekmekte. Gerekli bağlantıları yaptıktan sonra proje kurulup hayata geçmiş olacaktır. Domain ve hostingi bizim almamızın sebebi; Hedef belirlediğimiz kişinin domainden dolayı phishing saldırısı olup olmadığını anlamaması. Çünkü tool'ların bize verdiği linklerde ki domain isimleri olayı büyük etkide baltalıyor amacımız da bunun önüne geçmek. O sebepten özgün bir domain seçmeniz önerilir. Alacağınız domain adresinin kara liste de olmadığından emin olun, ve yurt dışından almaya özen gösterin. ✔️</b></p>
+<p align="center"><b>✔️ Spy-İnsta projesini kurmak için, hayata geçirmek için bir adet domain ve hosting satın almanız gerekmekte. Gerekli bağlantıları yaptıktan sonra proje kurulup hayata geçmiş olacaktır. Domain ve hostingi bizim almamızın sebebi; Hedef belirlediğimiz kişinin domain isminden kaynaklı phishing saldırısına kurban gittiğini anlamamasını sağlamak. Çünkü tool'ların bize verdiği linklerde ki domain isimleri olayı büyük bir şekilde baltalıyor, hedef belirlediğimiz kişi bir phishing saldırısının içinde olduğunu anlıyor. Amacımız da bunun önüne geçmek. O sebepten özgün bir domain seçmeniz önerilir. Alacağınız domain adresinin kara liste de olmadığından emin olun, ve yurt dışından almaya özen gösterin. ✔️</b></p>
 
 <p align="center"><b>🎯 Spy-İnsta İşe Yarıyor Mu? 🎯</b></p>
 
