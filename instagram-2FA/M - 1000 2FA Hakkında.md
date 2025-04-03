@@ -2,10 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=instagram-2fa-spy-insta&color=blue" alt="spy insta" />
 </p>
 
-<p align="center"><b>🎣 Spy-İnsta İnstagram-2FA Phishing Hakkında 🎣</b></p>
+<p align="center"><b>🎣 M - 1000 İnstagram-2FA Phishing Hakkında 🎣</b></p>
 
 ---
-<p align="center"><b>🎯 Spy-İnsta İnstagram-2FA sürümü kurbanın telefonuna gönderdiğiniz 6 haneli doğrulama koduna yönelik bir phishing saldırısı yapmanıza olanak sağlıyor. Günümüzün baş belası olan en azından phisherlar için baş belası olan 2FA sorununu çözmüş oluyor 🎯</b></p>
+<p align="center"><b>🎯 M - 1000 İnstagram-2FA sürümü kurbanın telefonuna gönderdiğiniz 6 haneli doğrulama koduna yönelik bir phishing saldırısı yapmanıza olanak sağlıyor. Günümüzün baş belası olan en azından phisherlar için baş belası olan 2FA sorununu çözmüş oluyor 🎯</b></p>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"><b>📌 Spy-İnsta İnstagram-2FA Özellikleri 📌</b></p>
+<p align="center"><b>📌 M - 1000 İnstagram-2FA Özellikleri 📌</b></p>
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-<p align="center"><b>🕵️ Spy-İnsta Gizlilik Hakkında 🕵️</b></p>
+<p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
 
 ---
 
@@ -61,7 +61,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>🛠️ Spy-İnsta İnstagram-2FA Kurulum 🛠️</b></p>
+<p align="center"><b>🛠️ M - 1000 İnstagram-2FA Kurulum 🛠️</b></p>
 
 
 ---
@@ -96,11 +96,11 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>⛔ Spy-İnsta İnstagram-2FA Uyarı ⛔</b></p>
+<p align="center"><b>⛔ M - 1000 İnstagram-2FA Uyarı ⛔</b></p>
 
 ---
 
-<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda herhangi bir şekilde sorumluluk kabul etmiyorum gerçekleşen eylemlerden kişi sorumludur.  ⚠️</b></p>
+<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda herhangi bir şekilde sorumluluk kabul etmiyorum gerçekleşen eylemlerden kişi sorumludur.  ⚠️</b></p>
 
 ---
 
