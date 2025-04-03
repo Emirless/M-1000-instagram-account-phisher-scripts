@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=instagram-sifreyi-yenile&color=blue" alt="spy insta" />
+  <img src="https://komarev.com/ghpvc/?username=instagram-sifreyi-yenile-spy-insta&color=blue" alt="spy insta" />
 </p>
 
 <p align="center"><b>🎣 Spy-İnsta İnstagram Şifreyi Yenile Phishing Hakkında 🎣</b></p>
