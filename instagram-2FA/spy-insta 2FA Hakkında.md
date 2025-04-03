@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=instagram-2fa&color=blue" alt="spy insta" />
+  <img src="https://komarev.com/ghpvc/?username=instagram-2fa-spy-insta&color=blue" alt="spy insta" />
 </p>
 
 <p align="center"><b>🎣 Spy-İnsta İnstagram-2FA Phishing Hakkında 🎣</b></p>
