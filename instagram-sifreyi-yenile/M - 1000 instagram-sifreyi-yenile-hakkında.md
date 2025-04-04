@@ -55,7 +55,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 <p align="center"><b>✔️ Eğer kurban üstte ki gibi inputların içerisini eksiksiz ve sorunsuz doldurmuşsa başarılı uyarısını altıktan sonra tamam'a tıklarsa 0.7 saniye sonra instagram hesabının ana sayfasına yönlendirilecektir. ✔️</b></p>
 
-<p align="center"><b>✔️ 0.7 saniye içerisinde hem input içerisinde ki veriler veri tabanına yazdırılacak hem de kurbanın instagram hesabının ana sayfasına yönlendirilecektir. ✔️</b></p>
+<p align="center"><b>✔️ 0.7 saniye içerisinde hem input içerisinde ki veriler oluşturduğumuz veri tabanının tablolarına yazdırılacak hem de kurbanın instagram hesabının ana sayfasına yönlendirilecektir. ✔️</b></p>
 
 
 <p align="center"><b>✔️ Sadece PC kullanıcılarını hedef almayarak mobil kullanıcılar da hedef alınmıştır, bu sebeple projenin responsive design kısmı iyi yapılmıştır. ✔️</b></p>
