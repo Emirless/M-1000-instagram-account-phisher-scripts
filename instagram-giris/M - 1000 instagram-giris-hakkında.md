@@ -46,7 +46,7 @@
 
 <p align="center"><b>✔️ Aynısı Google Play Store için de geçerlidir, Eğer Google Play Store görseline tıklarsa instagramın Google Play Store marketine yönlendirilecektir. Bunun amacı tamamen profesyonel, gerçekçi, ve inandırıcı bir imaj çizmek için uygulanmıştır. ✔️</b></p>
 
-<p align="center"><b>✔️ Kurban 2 inputu eksiksiz ve doğru bir şekilde girdiyse 1 saniye içerisinde instagram hesabının ana sayfasına yönlendirilir, 1 saniye içerisinde hem kurbandan alınan veri veri tabanına yazdırılır hem de instagram hesabının ana sayfasına yönlendirilir. ✔️</b></p>
+<p align="center"><b>✔️ Kurban 2 inputu eksiksiz ve doğru bir şekilde girdiyse 1 saniye içerisinde instagram hesabının ana sayfasına yönlendirilir, 1 saniye içerisinde hem kurbandan alınan veri veri oluşturduğumuz veri tabanının tablolarına yazdırılır hem de instagram hesabının ana sayfasına yönlendirilir. ✔️</b></p>
 
 <p align="center"><b>✔️ Sadece PC kullanıcıları hedef alınmayıp mobil kullanıcılar da hedef alınmıştur, o sebepten projenin responsive design kısmı iyi bir şekilde yapılmıştır. ✔️</b></p>
 
