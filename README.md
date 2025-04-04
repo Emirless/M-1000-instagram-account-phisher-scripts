@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/124c9364-36c3-4f15-ae64-cc1d1eb6c928" width="240">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=emirless-blackpion-spy-insta&color=blue" alt="spy insta" />
 </p> 
 
