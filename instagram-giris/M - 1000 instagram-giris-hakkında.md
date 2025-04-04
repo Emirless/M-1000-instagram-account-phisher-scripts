@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/2e42cdc6-f4bc-40ef-aff6-40261eda48f4" width="360">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=instagram-giris-spy-insta&color=blue" alt="spy insta" />
 </p>
 
