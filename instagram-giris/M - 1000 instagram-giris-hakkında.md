@@ -2,10 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=instagram-giris-spy-insta&color=blue" alt="spy insta" />
 </p>
 
-<p align="center"><b>👾 Spy-İnsta İnstagram Giriş Phishing Hakkında 👾</b></p>
+<p align="center"><b>👾 M - 1000 İnstagram Giriş Phishing Hakkında 👾</b></p>
 
 ---
-<p align="center"><b>📇 spy-insta'nın bir diğer sürümü olan instagram giriş sürümü klasik bir phishing saldırısı yapmanıza olanak sağlayan bir sürümdür. Yıllardır gördüğümüz ve artık klasikleşmiş bir yöntem olup hala iş yapan bir yöntemdir giriş sayfası phishing yöntemi. 📇</b></p>
+<p align="center"><b>📇 M - 1000'in bir diğer sürümü olan instagram giriş sürümü klasik bir phishing saldırısı yapmanıza olanak sağlayan bir sürümdür. Yıllardır gördüğümüz ve artık klasikleşmiş bir yöntem olup hala iş yapan bir yöntemdir giriş sayfası phishing yöntemi. 📇</b></p>
 
 <p align="center"><b>🕸️ Burada amacımız instagram giriş sayfasını teklit ederek kurbanın tıpkı instagramın gerçek giriş sayfasından kendi hesabına giriş yapıyormuş gibi bir izlenim oluşturmak. 🕸️</b></p>
 
@@ -13,7 +13,7 @@
 
 <p align="center"><b>🔒 Bu sürümün en büyük artısı diğer sürümler ile (Özellikle instagram-2FA) muazzam bir şekilde kordineli çalışması. Bu sürüm ile kurbanın kullanıcı adını, e postasını veya telefon numarasını aldınız diyelim. 🔒</b></p>
 
-<p align="center"><b>📈 Ve giriş yapıyorsunuz fark ediyorsunuz ki hesapta 2FA açık, karşınız da doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, Spy-İnsta instagram-2FA Phishing sürümü ile 6 haneli doğrulama kodunu aldıktan sonra hesaba tamamı ile erişiyorsunuz. 📈</b></p>
+<p align="center"><b>📈 Ve giriş yapıyorsunuz fark ediyorsunuz ki hesapta 2FA açık, karşınız da doğrulama sayfası var. Burada da devreye instagram-2FA sürümü giriyor, M - 1000 instagram-2FA Phishing sürümü ile 6 haneli doğrulama kodunu aldıktan sonra hesaba tamamı ile erişiyorsunuz. 📈</b></p>
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-<p align="center"><b>🎯 Spy-İnsta İnstagram-Giriş Özellikleri 🎯</b></p>
+<p align="center"><b>🎯 M - 1000 İnstagram-Giriş Özellikleri 🎯</b></p>
 
 ---
 <p align="center"><b>✔️ Kurban 2 inputun içerisine eksiksiz veri girmek zorundadır aksi taktirde bir hata mesajı alacaktır, bu durumda kurbanın sizin istediğiniz gibi davranmasına, sizin istediğiniz şekilde hareket etmesine sebep olacaktır. Sadece tek bir input dolu olup giriş yap butonuna tıklanrısa aynı hata mesajını tekrar alacaktır. ✔️</b></p>
@@ -48,7 +48,7 @@
 
 ---
 
-<p align="center"><b>🕵️ Spy-İnsta Gizlilik Hakkında 🕵️</b></p>
+<p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
 
 ---
 
@@ -78,7 +78,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 ---
 
 
-<p align="center"><b>🔨 Spy-İnsta İnstagram-Giriş Kurulum 🔨</b></p>
+<p align="center"><b>🔨 M - 1000 İnstagram-Giriş Kurulum 🔨</b></p>
 
 
 ---
@@ -113,11 +113,11 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>❗ Spy-İnsta İnstagram-Giriş Uyarı ❗</b></p>
+<p align="center"><b>❗ M - 1000 İnstagram-Giriş Uyarı ❗</b></p>
 
 ---
 
-<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda herhangi bir şekilde sorumluluk kabul etmiyorum gerçekleşen eylemlerden kişi sorumludur. ⚠️</b></p>
+<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda herhangi bir şekilde sorumluluk kabul etmiyorum gerçekleşen eylemlerden kişi sorumludur. ⚠️</b></p>
 
 ---
 
