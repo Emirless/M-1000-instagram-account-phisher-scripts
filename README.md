@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/124c9364-36c3-4f15-ae64-cc1d1eb6c928" width="240">
+  <img src="https://github.com/user-attachments/assets/2e42cdc6-f4bc-40ef-aff6-40261eda48f4" width="362">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emirless-blackpion-spy-insta&color=blue" alt="spy insta" />
