@@ -2,10 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=instagram-sifreyi-yenile-spy-insta&color=blue" alt="spy insta" />
 </p>
 
-<p align="center"><b>👾 Spy-İnsta İnstagram Şifreyi Yenile Phishing Hakkında 👾</b></p>
+<p align="center"><b>👾 M - 1000 İnstagram Şifreyi Yenile Phishing Hakkında 👾</b></p>
 
 ---
-<p align="center"><b>💻 spy-insta'nın bir başka packi olan instagram-sifreyi-yenile packi kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir pack, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
+<p align="center"><b>💻 M - 1000'in bir başka packi olan instagram-sifreyi-yenile packi kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir pack, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
 
 <p align="center"><b>💬 Bu phishing modelinde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki kurbanın asıl instagram şifresini alabilmemiz için önemli olan input. Kurbanın asıl şifresini alabilmemizi sağlayan input, kurban buraya asıl instagram şifresini girecektir. 💬</b></p>
 
@@ -25,7 +25,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 ---
 
-<p align="center"><b>🔗 Spy-İnsta İnstagram-Sifreyi-Yenile Özellikleri 🔗</b></p>
+<p align="center"><b>🔗 M - 1000 İnstagram-Sifreyi-Yenile Özellikleri 🔗</b></p>
 
 ---
 
@@ -58,7 +58,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 ---
 
-<p align="center"><b>🕵️ Spy-İnsta Gizlilik Hakkında 🕵️</b></p>
+<p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
 
 ---
 
@@ -87,7 +87,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>🔧 Spy-İnsta İnstagram-Sifreyi-Yenile Kurulum 🔧</b></p>
+<p align="center"><b>🔧 M - 1000 İnstagram-Sifreyi-Yenile Kurulum 🔧</b></p>
 
 
 ---
@@ -122,11 +122,11 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>❌ Spy-İnsta İnstagram-Sifreyi-Yenile Uyarı ❌</b></p>
+<p align="center"><b>❌ m - 1000 İnstagram-Sifreyi-Yenile Uyarı ❌</b></p>
 
 ---
 
-<p align="center"><b>⚠️ Spy-İnsta İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda herhangi bir şekilde sorumluluk kabul etmiyorum gerçekleşen eylemlerden kişi sorumludur. ⚠️</b></p>
+<p align="center"><b>⚠️ m - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda herhangi bir şekilde sorumluluk kabul etmiyorum gerçekleşen eylemlerden kişi sorumludur. ⚠️</b></p>
 
 ---
 
