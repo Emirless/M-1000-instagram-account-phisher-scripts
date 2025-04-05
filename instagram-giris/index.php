@@ -36,8 +36,8 @@ if (isset($_POST["button"])) {
 
     mysqli_close($connect);
 }
+    
 ?>
-
 
 <!DOCTYPE html>
 <html lang="tr">
