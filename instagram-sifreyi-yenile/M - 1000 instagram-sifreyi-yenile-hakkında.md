@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2e42cdc6-f4bc-40ef-aff6-40261eda48f4" width="350">
+  <img src="https://github.com/user-attachments/assets/f82c4c6c-ed81-44ea-9c86-89e57c71db60" width="400" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=instagram-sifreyi-yenile-spy-insta&color=blue" alt="spy insta" />
