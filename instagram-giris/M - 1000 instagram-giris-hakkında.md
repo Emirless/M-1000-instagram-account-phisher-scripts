@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=instagram-giris-spy-insta&color=blue" alt="spy insta" />
 </p>
 
-<p align="center"><b>👾 M - 1000 İnstagram Giriş Phishing Hakkında 👾</b></p>
+<p align="center"><b>👾 M - 1000 İnstagram Giriş Phishing Hakkında ! 👾</b></p>
 
 ---
 <p align="center"><b>📇 M - 1000'in bir diğer sürümü olan instagram giriş sürümü klasik bir phishing saldırısı yapmanıza olanak sağlayan bir sürümdür. Yıllardır gördüğümüz ve artık klasikleşmiş bir yöntem olup hala iş yapan bir yöntemdir giriş sayfası phishing yöntemi. 📇</b></p>
