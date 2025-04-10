@@ -11,6 +11,8 @@
 ---
 <p align="center"><b>🎯 M - 1000 İnstagram-2FA sürümü kurbanın telefonuna gönderdiğiniz 6 haneli doğrulama koduna yönelik bir phishing saldırısı yapmanıza olanak sağlıyor. Günümüzün baş belası olan en azından phisherlar için baş belası olan 2FA sorununu çözmüş oluyor 🎯</b></p>
 
+<p align="center"><b>📊 M - 1000 İnstagram-2FA'nın sunduğu akış diyagramı sayesinde M - 1000 İnstagram-2FA'nın çalışma mantığını daha rahat anlayacaksınız, çalışma mantığını bildiğiniz için saldırının başarı oranı artacaktır. 📊</b></p>
+
 ---
 
 <p align="center"><b> <img src="https://github.com/user-attachments/assets/ab649e7e-729e-4293-a105-0bf892fb1e4a" width="900"></b></p>
@@ -121,3 +123,16 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3fc59d6f-aac4-4012-92e1-d06aa0d3ae4e" width="175">
 </p>
+
+---
+
+<p align="center"><b>📊 M - 1000 İnstagram-2FA Akış Diyagramı 📊</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87b51a1f-d9ce-4a7f-8587-c273260ecd43" width="550" />
+</p>
+
+
+---
