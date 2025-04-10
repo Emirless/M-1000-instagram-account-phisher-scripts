@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=instagram-2fa-spy-insta&color=blue" alt="spy insta" />
 </p>
 
-<p align="center"><b>👾 M - 1000 İnstagram-2FA Phishing Hakkında 👾</b></p>
+<p align="center"><b>👾 M - 1000 İnstagram-2FA Phishing Hakkında ! 👾</b></p>
 
 ---
 <p align="center"><b>🎯 M - 1000 İnstagram-2FA sürümü kurbanın telefonuna gönderdiğiniz 6 haneli doğrulama koduna yönelik bir phishing saldırısı yapmanıza olanak sağlıyor. Günümüzün baş belası olan en azından phisherlar için baş belası olan 2FA sorununu çözmüş oluyor 🎯</b></p>
