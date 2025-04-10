@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=instagram-sifreyi-yenile-spy-insta&color=blue" alt="spy insta" />
 </p>
 
-<p align="center"><b>👾 M - 1000 İnstagram Şifreyi Yenile Phishing Hakkında 👾</b></p>
+<p align="center"><b>👾 M - 1000 İnstagram Şifreyi Yenile Phishing Hakkında ! 👾</b></p>
 
 ---
 <p align="center"><b>💻 M - 1000'in bir başka packi olan instagram-sifreyi-yenile packi kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir pack, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
