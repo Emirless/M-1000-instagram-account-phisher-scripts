@@ -24,7 +24,7 @@
 
 <p align="center"><b>📢 Size verdiğim SQL komutları ile bir veri tabanı oluşturacaksınız ve karşı tarafın verileri oluşturduğunuz veri tabanına yazdırılacak siz de rahatlıkla görebileceksiniz. Çalıştırmak için dosyaları htdocs klasörüne attığınızdan, veri tabanı bağlantılarını sorunsuz yaptığınızdan, ve sunucu bağlantınızın sorunsuz olduğundan emin olun. Aksi taktirde çalışmayacaktır. 📢</b></p>
 
-<p align="center"><b>📊 M - 1000 Phishing pack içerisinde ki sürümlerin her birinde işleyişi daha rahat anlayabilmeniz adına, projenin çalışma mantığını daha rahat anlayabilmenizi sağlayacak akış diyagramları bulunduruyor. Var olan akış diyagramlarını okuduğunuz zaman mantığı daha iyi kavrayacaksınız, bu sayede gerçekleştirmiş olduğunuz saldırının başarı oranı da artacaktır. 📊</b></p>
+<p align="center"><b>📊 M - 1000 Phishing pack, içerisinde ki sürümlerin her birinde işleyişi daha rahat anlayabilmeniz adına, projenin çalışma mantığını daha rahat anlayabilmenizi sağlayacak akış diyagramları bulunduruyor. Var olan akış diyagramlarını okuduğunuz zaman mantığı daha iyi kavrayacaksınız, bu sayede gerçekleştirmiş olduğunuz saldırının başarı oranı da artacaktır. 📊</b></p>
 
 <p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developerı hiçbir şekilde sorumlu tutulmaz. Gerçekleştirilen eylemlerden kişi sorumludur. ⚠️</b></p>
 
