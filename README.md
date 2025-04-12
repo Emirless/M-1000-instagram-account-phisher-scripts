@@ -26,7 +26,7 @@
 
 <p align="center"><b>📊 M - 1000 Phishing pack içerisinde ki sürümlerin her birinde işleyişi daha rahat anlayabilmeniz adına, projenin çalışma mantığını daha rahat anlayabilmeniz adına akış diyagramları mevcut. Var olan akış diyagramlarını okuduğunuz zaman mantığı daha iyi kavrayacaksınız, bu sayede gerçekleştirmiş olduğunuz saldırının başarı oranı da artacaktır. 📊</b></p>
 
-<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 geliştiricisi hiçbir şekilde sorumlu tutulmaz. Gerçekleşen eylemlerden kişi sorumludur. ⚠️</b></p>
+<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developerı hiçbir şekilde sorumlu tutulmaz. Gerçekleştirilen eylemlerden kişi sorumludur. ⚠️</b></p>
 
 ---
 
