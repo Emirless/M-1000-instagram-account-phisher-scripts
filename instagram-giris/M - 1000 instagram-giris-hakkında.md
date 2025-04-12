@@ -144,7 +144,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2fba81cb-d115-4a97-bcbb-4208aa0190ba" width="450" />
+  <img src="https://github.com/user-attachments/assets/2fba81cb-d115-4a97-bcbb-4208aa0190ba" width="440" />
 </p>
 
 
