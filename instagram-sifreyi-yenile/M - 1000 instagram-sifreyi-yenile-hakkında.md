@@ -145,3 +145,15 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3fc59d6f-aac4-4012-92e1-d06aa0d3ae4e" width="175">
 </p>
+
+---
+
+<p align="center"><b>📊 M - 1000 İnstagram-Şifreyi-Yenile Akış Diyagramı 📊</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1433db86-9917-43bd-9385-07dcf42d575a" width="450" />
+</p>
+
+---
