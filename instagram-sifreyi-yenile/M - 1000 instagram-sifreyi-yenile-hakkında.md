@@ -9,9 +9,9 @@
 <p align="center"><b>👾 M - 1000 İnstagram Şifreyi Yenile Phishing Hakkında ! 👾</b></p>
 
 ---
-<p align="center"><b>💻 M - 1000'in bir başka packi olan instagram-sifreyi-yenile packi kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir pack, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
+<p align="center"><b>💻 M - 1000'in bir başka sürümü olan instagram-sifreyi-yenile sürümü kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir sürüm, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
 
-<p align="center"><b>💬 Bu phishing modelinde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki kurbanın asıl instagram şifresini alabilmemiz için önemli olan input. Kurbanın asıl şifresini alabilmemizi sağlayan input, kurban buraya asıl instagram şifresini girecektir. 💬</b></p>
+<p align="center"><b>💬 Bu phishing sürümünde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki kurbanın asıl instagram şifresini alabilmemiz için önemli olan input. Kurbanın asıl şifresini alabilmemizi sağlayan input, kurban buraya asıl instagram şifresini girecektir. 💬</b></p>
 
 <p align="center"><b>🔔 İkinci inputa ise kurbanın yeni oluşturmak istediği şifreyi girmesini istedik, bu sayede tıpkı instagram şifre yenileme işlemlerinin aynısını gerçekleştirmiş olduk. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre, çünkü asıl şifre o. İkinci input'un 
 içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p>
