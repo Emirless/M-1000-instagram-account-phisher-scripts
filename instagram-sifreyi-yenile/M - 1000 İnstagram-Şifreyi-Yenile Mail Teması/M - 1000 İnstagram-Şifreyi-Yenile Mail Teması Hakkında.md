@@ -14,7 +14,7 @@
 
 <p align="center"><b>📧 M - 1000 İnstagram-Şifreyi-Yenile Mail Temasını kullanabilmemiz için bize bir adet HTML Gmail Editör gerekmekte, onu ise bulmak için Chorme Web Mağazasından extension şeklinde indirmemiz gerek. Size önerim "HTML Editor for Gmail by cloudHQ" extension'ı bilgisayarımıza indirip, hesap oluşturduğumuz vakit ise otomatik olarak Mailimize kurulacaktır. 📧</b></p>
 
-<p align="center"><b>✉️ Sonrasında ise sizlere vermiş olduğum Mail Temalı HTML kodunu "Source" kısmına yapıştırıp "Close Editor" tıkladığınız vakit instagram mail temasının kurulumunu başarılı bir şekilde gerçekleştirmiş olacaksınız. ✉️</b></p>
+<p align="center"><b>📫 Sonrasında ise sizlere vermiş olduğum Mail Temalı HTML kodunu "Source" kısmına yapıştırıp "Close Editor" tıkladığınız vakit instagram mail temasının kurulumunu başarılı bir şekilde gerçekleştirmiş olacaksınız. 📫</b></p>
 
 ---
 
