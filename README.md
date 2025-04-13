@@ -67,6 +67,8 @@
 <p align="center"><b>✔️ Evet, 3 farklı sürümü sayesinde instagram hesabı çalmanız mümkün, burada önemli olan design ettiğiniz operasyonun kusursuz olup sürümleri kordineli bir şekilde kullanmanız. 
 Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli bir şekilde kullandığınız için hedeflediğiniz instagram hesabını çalma olasılığınız bir hayli yüksek. ✔️</b></p>
 
+<p align="center"><b>✔️ Ayrıca sizlere vermiş olduğum mail temaları sayesinde hedef belirlediğiniz kişide gerçekçi bir algı oluşturup, daha profesyonel bir yaklaşımda bulunduğunuz için hedeflediğiniz hesabı çalma olasılığınız daha da kolaya inmekle beraber başarı oranı da artıyor. ✔️</b></p>
+
 <p align="center"><b>🎯 M - 1000 İle Hedef Kişiden Aldığımız Veriler Nerede Depolanır? 🎯</b></p>
 
 <p align="center"><b>✔️ M - 1000 ile hedef kişiden aldığınız veriler oluşturacağınız veri tabanının tablolarına kayıt olur. Size verdiğim SQL komutları ile bir adet veri tabanı ve tablo oluşturacaksınız, gerekli bağlantıları yaptıktan sonra her bir hedeflediğiniz kişinin verileri sizin oluşturmuş olduğunuz veri tabanının tablolarına kayıt olacaktır. Bu sayede hedef kişinin verilerini kolay bir şekilde görebileceksiniz. ✔️</b></p>
