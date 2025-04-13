@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><b>✉️ M - 1000 İnstagram-Şifreyi-Yenile Mail Teması ile instagram temalı mailler gönderebileceksiniz, bu sayede hem daha profesyonel bir izlenim uyandırıp hem de hesabı ele geçirme olasılığınız artacaktır. ✉️</b></p>
+<p align="center"><b>✉️ M - 1000 İnstagram-Şifreyi-Yenile Mail Teması sayesinde instagram temalı mailler gönderebileceksiniz, bu sayede hem daha profesyonel bir izlenim uyandırıp hem de hesabı ele geçirme olasılığınız artacaktır. ✉️</b></p>
 
 <p align="center"><b>📧 M - 1000 İnstagram-Şifreyi-Yenile Mail Temasını kullanabilmemiz için bize bir adet HTML Gmail Editör gerekmekte, onu ise bulmak için Chorme Web Mağazasından extension şeklinde indirmemiz gerek. Size önerim "HTML Editor for Gmail by cloudHQ" extension'ı bilgisayarımıza indirip, hesap oluşturduğumuz vakit ise otomatik olarak Mailimize kurulacaktır. 📧</b></p>
 
