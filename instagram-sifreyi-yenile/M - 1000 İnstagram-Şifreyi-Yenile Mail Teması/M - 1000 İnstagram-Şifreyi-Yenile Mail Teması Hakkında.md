@@ -52,3 +52,26 @@
 
 
 ---
+
+<p align="center"><b>⚠️ M - 1000 İnstagram-Şifreyi-Yenile Mail Teması Uyarı ! ⚠️</b></p>
+
+---
+
+<p align="center"><b>❗ M - 1000 İnstagram-Şifreyi-Yenile Mail Teması tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developer'ı hiçbir şekilde sorumlu tutulmaz. Gerçekleşen eylemlerden kişi sorumludur. ❗</b></p>
+
+---
+
+
+<p align="center">
+  <a href="https://linktr.ee/Emirless" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c5dd6090-a4ae-4bdf-9070-f86582da6327" width="105">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3fc59d6f-aac4-4012-92e1-d06aa0d3ae4e" width="175">
+</p>
+
+---
