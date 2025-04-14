@@ -14,7 +14,7 @@
 
 <p align="center"><b>📧 M - 1000 İnstagram-Şifreyi-Yenile Mail Temasını kullanabilmemiz için bize bir adet HTML Gmail Editör gerekmekte, onu ise bulmak için Chorme Web Mağazasından extension şeklinde indirmemiz gerekmekte. Size önerim "HTML Editor for Gmail by cloudHQ" extension'ı bilgisayarımıza indirip, hesap oluşturduğumuz vakit ise otomatik olarak Mailimize kurulacaktır. 📧</b></p>
 
-<p align="center"><b>📫 Sonrasında ise sizlere vermiş olduğum Mail Temalı HTML kodunu "Source" kısmına yapıştırıp "Close Editor" tıkladığınız vakit instagram mail temasının kurulumunu başarılı bir şekilde gerçekleştirmiş olacaksınız. 📫</b></p>
+<p align="center"><b>📫 Sonrasında ise sizlere vermiş olduğum index.html Mail Temalı HTML kodunu "Source" kısmına yapıştırıp "Close Editor" tıkladığınız vakit instagram mail temasının kurulumunu başarılı bir şekilde gerçekleştirmiş olacaksınız. 📫</b></p>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-<p align="center"><b>✔️ M - 1000 İnstagram-Şifreyi-Yenile Mail Teması tamamı ile kurumsal bir yapıya sahip olup, hedef belirlediğiniz kişiyi aceleye getirtip hesabını çalma olasılığınızı artırmak amaçlı kurumsal bir dil ile yazılmıştır. Fakat açık kaynak kodlu olması sebebi ile yazılan kurumsal dili dilediğiniz gibi değiştirip, üzerine eklemeler yapabilirsiniz. ✔️</b></p>
+<p align="center"><b>✔️ M - 1000 İnstagram-Şifreyi-Yenile Mail Teması tamamı ile kurumsal bir yapıya sahip olup, hedef belirlediğiniz kişiyi aceleye getirtip hesabını çalma olasılığınızı artırmak amaçlı kurumsal bir dil ile yazılmıştır. Açık kaynak kodlu olması sebebi ile yazılan kurumsal dili dilediğiniz gibi değiştirip, üzerine eklemeler yapabilirsiniz. ✔️</b></p>
 
 <p align="center"><b>✔️ En altta ki "bu mesaj örnek@gmail.com" şeklinde ki mail adresini hedef belirlediğiniz kişinin mail adresi ile değiştirin bu inandırıcılığı artıracaktır. ✔️</b></p>
 
