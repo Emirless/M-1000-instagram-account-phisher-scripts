@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirless-blackpion-spy-insta&color=blue" alt="spy insta" />
+  <img src="https://komarev.com/ghpvc/?username=emirless-blackpion-spy-insta&color=blue" />
 </p> 
 
 <p align="center"><b>👾 M - 1000 İnstagram Account Phisher Scripts Hakkında ! 👾</b></p>
