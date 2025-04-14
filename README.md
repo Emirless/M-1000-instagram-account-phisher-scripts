@@ -16,7 +16,7 @@
 
 <p align="center"><b>🛡️ Sonra bir bakıyorsunuz hesapta 2FA açık, karşınızda bir doğrulama kodu sayfası var. O zamanda instagram-2FA sürümü devreye giriyor, instagram-2FA sürümü sayesinde Phisherlar için günümüzün baş belası olan 2FA'ı atlatabiliyorsunuz. 🛡️</b></p>
 
-<p align="center"><b>🚨 Aynı zamanda şifre yenileme sürümü mevcut, kurban da panik yaratarak şifresini size kendi elleri ile vermesini sağlayabilirsiniz. Örnek senaryo; Merhaba değerli üyemiz, yapılan araştırmalarda şifrenizi yetersiz bulduk daha güçlü bir şifre ile değiştirmenizi önemle arz ederiz, aksi taktirde 24 saat içerisinde hesabınız askıya alınacaktır. 🚨</b></p>
+<p align="center"><b>🚨 Aynı zamanda şifre yenileme sürümü mevcut, kurban da panik yaratarak şifresini size kendi elleri ile vermesini sağlayabilirsiniz. Örnek senaryo; Merhaba değerli kullanıcımız, yapılan araştırmalar doğrultusunda parolanızı yetersiz ve güvensiz bulduk daha güçlü bir parola ile değiştirmeniz önemle rica olunur, aksi taktirde 24 saat içerisinde hesabınız askıya alınacaktır. 🚨</b></p>
 
 <p align="center"><b>💾 Bu sayede kurban ilk inputun içerisine gerçek instagram şifresini yazacaktır, 2. inputa ise yeni oluşturmak istediği şifreyi yazacaktır, ve biz de hem eski şifresini hem de yeni belirlemiş olduğu şifresini oluşturduğumuz veri tabanının tablolarına yazdırarak kolaylıkla görebileceğiz. 💾</b></p>
 
