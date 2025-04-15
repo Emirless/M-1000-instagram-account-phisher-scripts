@@ -16,7 +16,7 @@
 <p align="center"><b>🔔 İkinci inputa ise kurbanın yeni oluşturmak istediği şifreyi girmesini istedik, bu sayede tıpkı instagram şifre yenileme işlemlerinin aynısını gerçekleştirmiş olduk. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre, çünkü asıl şifre o. İkinci input'un 
 içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p>
 
-<p align="center"><b>📂 Kurbanın şifre oluştururken ki mantığını çözmek, şifresini değiştirirken genelde aynı kombinasyonlarını mı kullanıyor? Yoksa tamamen farklı bir şifre mi oluşturuyor? Veri tabanına kayıt olmasında ki sebeplerinden biri de bu. Bu sayede kurbanın şifre oluşturmada ki düşünce tarzını anlayarak diğer platformlarda ki şifresini tahmin yolu ile alabilirsiniz. 📂</b></p>
+<p align="center"><b>📂 Kurbanın şifre oluştururken ki mantığını çözmek, şifresini değiştirirken genelde aynı kombinasyonlarını mı kullanıyor? Yoksa tamamen farklı bir şifre mi oluşturuyor? Veri tabanına kayıt olmasında ki sebeplerinden biri de bu. Bu sayede kurbanın şifre oluşturmada ki düşünce tarzını anlayarak diğer platformlarda ki şifrelerini tahmin yolu ile deneyebilirsiniz. 📂</b></p>
 
 
 <p align="center"><b>⚙️ Çünkü aynı şifre kombinasyonlarını farklı platformlar için kullanan bir çok insan var, sayıların yerleri değiştirmiş olabilir, veya önceliği sayılara vermiştir. ! - _ # . + $ % & ~ , ' ; ? ( ) { } [ ] @ / \ ^ = * " : < > | ´ ` € ¨ gibi karakterler kullanmıştır gibi. Söylendiği gibi ilk input şifreyi almak için, ikinci input ise kurbanın şifre oluştururken ki psikolojik analizini yapmak için. ⚙️</b></p>
