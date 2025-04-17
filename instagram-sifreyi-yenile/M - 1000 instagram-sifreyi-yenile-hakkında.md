@@ -60,7 +60,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 <p align="center"><b>✔️ Sadece PC kullanıcılarını hedef almayarak mobil kullanıcılar da hedef alınmıştır, bu sebeple projenin responsive design kısmı iyi yapılmıştır. ✔️</b></p>
 
-<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanının tablolarına saat, dakika, gün ve ay şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
+<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanının tablolarına saat, dakika, saniye, gün ve ay şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
 
 ---
 
