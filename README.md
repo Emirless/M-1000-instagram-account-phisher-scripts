@@ -28,6 +28,8 @@
 
 <p align="center"><b>📫 M - 1000 Phishing pack, var olan 3 adet sürümünün her birinde phishing saldırısının başarı oranını artırmak için bir adet mail teması bulunduruyor, size vermiş olduğum mail temalarını kullandığınız vakit hedef belirlediğiniz kişinin hesabını çalma ihtimaliniz daha da kolaya inmekle beraber başarı oranını da artırıyor. 📫</b></p>
 
+<p align="center"><b>🧪 Hedef belirlediğiniz kişi inputlara gerekli veriyi girip butona tıkladığı vakit veri tabanında bulunan tablolara hedef belirlediğiniz kişinin IP adresi, tarayıcı bilgileri ve işletim sistemi gibi verileri kayıt olur. Bu sayede hedef belirlediğiniz kişinin IP adresini, tarayıcı ve işletim sistemi bilgilerini kolaylıkla görebilirsiniz. 🧪</b></p>
+
 <p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developerı hiçbir şekilde sorumlu tutulmaz. Gerçekleştirilen eylemlerden kişi sorumludur. ⚠️</b></p>
 
 ---
