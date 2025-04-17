@@ -87,6 +87,10 @@ Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli b
 
 <p align="center"><b>✔️ Hayır, Sizden ücret isteyen klon veya çalıntı M - 1000 sürümlerinden uzak durun, çünkü M - 1000 tamamı ile açık kaynak kodlu bir proje olup sizden herhangi bir şekilde ücret talep etmez. ✔️</b></p>
 
+<p align="center"><b>🎯 M - 1000 İle Hedef Kişinin Cihaz Verilerini Alabilir Miyiz? 🎯</b></p>
+
+<p align="center"><b>✔️ Evet, M - 1000 ile hedef belirlediğiniz kişinin cihaz bilgilerini alabilirsiniz. Hedef belirlediğiniz kişi gerekli inputları eksiksiz doldurup butona tıklarsa veri tabanında ki tablolara hedef kişinin IP adresi, tarayıcı bilgisi ve işletim sistemi gibi verileri kayıt olur. Ve sizde bu bilgileri rahatlıkla görebilirsiniz. ✔️</b></p>
+
 ---
 
 <p align="center">
