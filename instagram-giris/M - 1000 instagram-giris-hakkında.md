@@ -50,6 +50,8 @@
 
 <p align="center"><b>✔️ Sadece PC kullanıcıları hedef alınmayıp mobil kullanıcılar da hedef alınmıştur, o sebepten projenin responsive design kısmı iyi bir şekilde yapılmıştır. ✔️</b></p>
 
+<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanının tablolarına saat, dakika, gün ve ay şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
+
 ---
 
 <p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
