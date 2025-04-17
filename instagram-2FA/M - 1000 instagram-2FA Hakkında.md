@@ -37,6 +37,8 @@
 
 <p align="center"><b>✔️ Kurban doğrulama kodunu inputun içerisine girdiği zaman 1 saniye içerisinde instagram hesabının ana sayfasına yönlendirilir, 1 saniye içerisinde hem kurbandan alınan doğrulama kodu oluşturduğumuz veri tabanının tablolarına yazdırılır hem de kurbanın instagram hesabının ana sayfasına yönlendirilir. ✔️</b></p>
 
+<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanının tablolarına saat, dakika, gün ve ay şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
+
 ---
 
 <p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
