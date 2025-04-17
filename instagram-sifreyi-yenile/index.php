@@ -43,11 +43,8 @@ if (isset($_POST["button"])) {
         mysqli_close($sql_conn);
     }
 }
+    
 ?>
-
-
-
-
 
 <!DOCTYPE html>
 <html lang="tr">
