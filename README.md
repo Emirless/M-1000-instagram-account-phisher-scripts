@@ -9,6 +9,9 @@
   <a href="https://linktr.ee/Emirless">
     <img src="https://img.shields.io/badge/M1000 Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
   </a>
+  <a href="https://www.turkhackteam.org/uye/blackpion.950036/">
+    <img src="https://img.shields.io/badge/THT Profil Linki - BlackPion-red?logo=googlechrome"/>
+  </a>
 </p>
 
 
