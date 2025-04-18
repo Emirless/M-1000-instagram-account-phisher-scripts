@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
   </a>
   <a href="https://linktr.ee/Emirless">
-    <img src="https://img.shields.io/badge/Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
+    <img src="https://img.shields.io/badge/M1000 Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
   </a>
 </p>
 
