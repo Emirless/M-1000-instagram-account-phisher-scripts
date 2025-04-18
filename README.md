@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/f82c4c6c-ed81-44ea-9c86-89e57c71db60" width="400" />
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/Emirless" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Developer By-BlackPion-orange?logo=star" />
