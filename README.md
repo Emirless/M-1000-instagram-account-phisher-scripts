@@ -6,7 +6,7 @@
   <a href="https://github.com/kullaniciadi/projeadi">
     <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
   </a>
-  <a href="https://linktr.ee/https://linktr.ee/Emirless">
+  <a href="https://linktr.ee/Emirless">
     <img src="https://img.shields.io/badge/Linktree-My%20Links-brightgreen?logo=linktree" />
   </a>
 </p>
