@@ -95,6 +95,10 @@ Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli b
 
 ---
 
+<p align="center"><b>📷 M - 1000 İnstagram Account Phisher Scripts Görüntüleri 📷</b></p>
+
+---
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/88c7c92c-c19d-4aed-ba11-3de0a6fef625" width="900">
 </p>
