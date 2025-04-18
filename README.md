@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.seninistediginlink.com" style="text-decoration: none;">
+  <a href="" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Developer By-BlackPion-orange?logo=star" />
   </a>
 </p>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/M1000 Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
   </a>
   <a href="https://www.turkhackteam.org/uye/blackpion.950036/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/THT Profil Linki - BlackPion-red?logo=googlechrome"/>
+    <img src="https://img.shields.io/badge/THT Profil Linki - BlackPion-red?logo="/>
   </a>
 </p>
 
