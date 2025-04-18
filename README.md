@@ -3,8 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirless-blackpion-spy-insta&color=blue" />
-</p> 
+  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-View-informational?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts/stargazers">
+    <img src="https://img.shields.io/github/stars/kullaniciadi/projeadi?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
 
 <p align="center"><b>👾 M - 1000 İnstagram Account Phisher Scripts Hakkında ! 👾</b></p>
 
