@@ -3,12 +3,29 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=instagram-sifreyi-yenile-spy-insta&color=blue" alt="spy insta" />
+  <a href="https://github.com/Emirless" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Developer By-BlackPion-orange?logo=apache" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://komarev.com/ghpvc/?username=Emirless-m-1000-sy&label=M-1000-SY-Views&color=blue&style=flat" />
+  </a>
+  <a href="https://linktr.ee/Emirless" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/M1000 Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
+  </a>
+  <a href="https://www.turkhackteam.org/uye/blackpion.950036/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/THT Profil Linki - BlackPion-red?logo=firefox"/>
+  </a>
+</p>
+
+---
 
 <p align="center"><b>👾 M - 1000 İnstagram Şifreyi Yenile Phishing Hakkında ! 👾</b></p>
 
 ---
+
 <p align="center"><b>💻 M - 1000'in bir başka sürümü olan instagram-sifreyi-yenile sürümü kurbanın hali hazırda var olan şifresini alabilmenize yardımcı olacak bir sürüm, bu sayede kurbanın instagram şifresini alabileceksiniz. 💻</b></p>
 
 <p align="center"><b>💬 Bu phishing sürümünde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki kurbanın asıl instagram şifresini alabilmemiz için önemli olan input. Kurbanın asıl şifresini alabilmemizi sağlayan input, kurban buraya asıl instagram şifresini girecektir. 💬</b></p>
