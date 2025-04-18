@@ -3,8 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-1000-instagram-account-phisher&color=blue" alt="spy insta" />
+  <a href="https://github.com/kullaniciadi/projeadi">
+    <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
+  </a>
+  <a href="https://linktr.ee/https://linktr.ee/Emirless">
+    <img src="https://img.shields.io/badge/Linktree-My%20Links-brightgreen?logo=linktree" />
+  </a>
 </p>
+
 
 <p align="center"><b>👾 M - 1000 İnstagram Account Phisher Scripts Hakkında ! 👾</b></p>
 
