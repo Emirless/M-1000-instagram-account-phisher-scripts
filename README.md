@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
@@ -22,6 +20,7 @@
   </a>
 </p>
 
+---
 
 <p align="center"><b>👾 M - 1000 İnstagram Account Phisher Scripts Hakkında ! 👾</b></p>
 
