@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" target="_blank">
+  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts">
     <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
   </a>
   <a href="https://linktr.ee/Emirless">
-    <img src="https://img.shields.io/badge/Linktree-My%20Links-brightgreen?logo=linktree" />
+    <img src="https://img.shields.io/badge/Linktree-My%20Links-brightgreen?logo=linktree" target="_blank"/>
   </a>
 </p>
 
