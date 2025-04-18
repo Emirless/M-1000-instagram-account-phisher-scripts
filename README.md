@@ -3,13 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts">
+  <a href="https://www.seninistediginlink.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Developer By-BlackPion-orange?logo=star" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
   </a>
-  <a href="https://linktr.ee/Emirless">
+  <a href="https://linktr.ee/Emirless" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/M1000 Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
   </a>
-  <a href="https://www.turkhackteam.org/uye/blackpion.950036/">
+  <a href="https://www.turkhackteam.org/uye/blackpion.950036/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/THT Profil Linki - BlackPion-red?logo=googlechrome"/>
   </a>
 </p>
