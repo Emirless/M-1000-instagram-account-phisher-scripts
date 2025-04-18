@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kullaniciadi/projeadi">
+  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts">
     <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
   </a>
   <a href="https://linktr.ee/Emirless">
