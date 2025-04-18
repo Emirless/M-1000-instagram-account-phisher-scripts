@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Emirless" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Developer By-BlackPion-orange?logo=star" />
+    <img src="https://img.shields.io/badge/Developer By-BlackPion-orange?logo=apache" />
   </a>
 </p>
 
