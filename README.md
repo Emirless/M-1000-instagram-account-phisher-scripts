@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts">
-    <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Görüntülenme-Sayısı&color=blue&style=flat" />
   </a>
   <a href="https://linktr.ee/Emirless">
     <img src="https://img.shields.io/badge/M1000 Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
