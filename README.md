@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://www.turkhackteam.org/uye/blackpion.950036/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/THT%20Profile%20Link-Go-red?logo=firefox"/>
+    <img src="https://img.shields.io/badge/THT%20Profile%20Link-BlackPion-red?logo=firefox"/>
   </a>
 </p>
 
