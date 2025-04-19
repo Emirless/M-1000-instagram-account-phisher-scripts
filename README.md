@@ -8,9 +8,6 @@
   </a>
 </p>
 
-
-
-<!-- 2. satır: 3 rozet yan yana -->
 <p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://komarev.com/ghpvc/?username=kullaniciadi&label=M-1000-Views&color=blue&style=flat"/>
@@ -23,9 +20,11 @@
   <a href="https://www.turkhackteam.org/uye/blackpion.950036/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/THT%20Profile%20Link-BlackPion-red?logo=firefox"/>
   </a>
+     <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Social Engineering-Yes-orange?logo=rocket"/>
+  </a>
 </p>
 
-<!-- 3. satır: Source ve Version yan yana -->
 <p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Source-Open%20Source-black?logo=github"/>
@@ -33,6 +32,13 @@
 
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Version-Full-yellow?logo=upptime"/>
+  </a>
+
+   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Phishing Script-Yes-orange?logo=githubactions"/>
+  </a>
+     <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Phishing-Yes-orange?logo=chartdotjs"/>
   </a>
 </p>
 
