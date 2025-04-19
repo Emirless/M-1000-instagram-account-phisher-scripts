@@ -91,7 +91,7 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 ---
 
-<p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
+<p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında ! 🕵️</b></p>
 
 ---
 
