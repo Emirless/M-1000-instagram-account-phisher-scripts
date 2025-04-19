@@ -77,6 +77,8 @@
 
 <p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanında bulunan tablolara saat, dakika, saniye, gün, ay ve yıl şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
 
+<p align="center"><b>✔️ Hedef kişi gerekli inputları eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara IP adresi, işletim sistemi ve tarayıcı bilgileri kayıt olur. Eğer işletim sistemi ve tarayıcı bilgilerini rahat bir şekilde göremiyorsanız gerekli sütuna çift tıklayın, bu sayede rahatlıkla görebileceksiniz. ✔️</b></p>
+
 ---
 
 <p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
