@@ -67,7 +67,7 @@
 
 ---
 
-<p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında 🕵️</b></p>
+<p align="center"><b>🕵️ M - 1000 Gizlilik Hakkında ! 🕵️</b></p>
 
 ---
 
