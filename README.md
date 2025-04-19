@@ -21,6 +21,9 @@
     <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Source - Open Source-black?logo=github"/>
   </a>
+      <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Version - Full-black?logo=githubactions"/>
+  </a>
 </p>
 
 ---
