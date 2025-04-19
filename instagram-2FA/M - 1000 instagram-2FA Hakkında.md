@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/Emirless/M-1000-instagram-account-phisher-scripts](https://github.com/Emirless/M-1000-instagram-account-phisher-scripts/blob/main/instagram-2FA/M%20-%201000%20instagram-2FA%20Hakk%C4%B1nda.md)" style="text-decoration: none;">
+  <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://komarev.com/ghpvc/?username=Emirless&label=M-1000-2FA-Views&color=blue&style=flat"/>
   </a>
   
