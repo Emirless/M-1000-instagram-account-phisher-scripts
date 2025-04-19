@@ -40,6 +40,8 @@ içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p
 
 <p align="center"><b>💾 M - 1000 İnstagram-Şifreyi-Yenile sürümünde hedef belirlediğiniz kişi inputları eksiksiz doldurup butona tıkladığı zaman veri tabanında bulunan tablolara hedef kişinin IP adresi, işletim sistemi ve tarayıcı bilgileri de kayıt olacaktır. Bu sayede hedef belirlediğiniz kişinin cihaz ve tarayıcı bilgilerinide ele geçirmiş olacaksınız. 💾</b></p>
 
+<p align="center"><b>⌚ M - 1000 İnstagram-Şifreyi-Yenile sürümünde hedef kişi inputları eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara saniye, saat, dakika, gün ve ay şeklinde kayıt edilecektir bu sayede hesabı ne zaman ele geçirdiğinizden haberdar olacaksınız. ⌚</b></p>
+
 ---
 
 <p align="center">
