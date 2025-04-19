@@ -111,7 +111,7 @@ Operasyonu yani phishing saldırısını siz design edip sürümleri kordineli b
 
 <p align="center"><b>🎯 M - 1000 İle Hedef Belirlediğimiz İnstagram Hesabını Ne Zaman Çaldığımızı Bilecek Miyiz? 🎯</b></p>
 
-<p align="center"><b>✔️ Evet, M - 1000 ile hedef belirlediğiniz instagram hesabını çaldığınız zamanı bileceksiniz. Hedef kişi gerekli inputları eksiksiz doldurup butona tıklarsa veri tabanında bulunan tablolara saat, dakika, saniye gün ve ay şeklinde kayıt olur. Bu sayede sizde hesabı ne zaman çaldığınızdan haberdar olursunuz. ✔️</b></p>
+<p align="center"><b>✔️ Evet, M - 1000 ile hedef belirlediğiniz instagram hesabını çaldığınız zamanı bileceksiniz. Hedef kişi gerekli inputları eksiksiz doldurup butona tıklarsa veri tabanında bulunan tablolara saat, dakika, saniye, gün, ay ve yıl şeklinde kayıt olur. Bu sayede sizde hesabı ne zaman çaldığınızdan haberdar olursunuz. ✔️</b></p>
 
 ---
 
