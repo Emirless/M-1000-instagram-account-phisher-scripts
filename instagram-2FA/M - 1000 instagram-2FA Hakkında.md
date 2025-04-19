@@ -31,7 +31,7 @@
 
 <p align="center"><b>💾 M - 1000 İnstagram-2FA sürümünde hedef belirlediğiniz kişi doğrulama kodunu girdiği inputu eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara hedef kişinin IP adresi, işletim sistemi ve tarayıcı bilgileri de kayıt olacaktır. Bu sayede hedef belirlediğiniz kişinin cihaz ve tarayıcı bilgilerinide ele geçirmiş olacaksınız. 💾</b></p>
 
-<p align="center"><b>⌚ M - 1000 İnstagram-2FA sürümünde hedef kişi inputları eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara saniye, saat, dakika, gün ve ay şeklinde kayıt edilecektir bu sayede hesabı ne zaman ele geçirdiğinizden haberdar olacaksınız. ⌚</b></p>
+<p align="center"><b>⌚ M - 1000 İnstagram-2FA sürümünde hedef kişi 6 haneli doğrulama kodu inputunu eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara saniye, saat, dakika, gün, ay ve yıl şeklinde kayıt edilecektir bu sayede hesabı ne zaman ele geçirdiğinizden haberdar olacaksınız. ⌚</b></p>
 
 ---
 
