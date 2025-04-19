@@ -29,6 +29,8 @@
 
 <p align="center"><b>📊 M - 1000 İnstagram-2FA'nın sunduğu akış diyagramı sayesinde M - 1000 İnstagram-2FA'nın çalışma mantığını daha rahat anlayacaksınız, çalışma mantığını bildiğiniz için saldırının başarı oranı artacaktır. 📊</b></p>
 
+<p align="center"><b>💾 M - 1000 İnstagram-2FA sürümünde hedef belirlediğiniz kişi doğrulama kodunu girdiği inputu eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara hedef kişinin IP adresi, işletim sistemi ve tarayıcı bilgileri de kayıt olacaktır. Bu sayede hedef belirlediğiniz kişinin cihaz ve tarayıcı bilgilerinide ele geçirmiş olacaksınız. 💾</b></p>
+
 ---
 
 <p align="center"><b> <img src="https://github.com/user-attachments/assets/ab649e7e-729e-4293-a105-0bf892fb1e4a" width="900"></b></p>
