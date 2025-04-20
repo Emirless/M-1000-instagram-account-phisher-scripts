@@ -53,9 +53,9 @@
 <p align="center"><b>💬 Bu phishing sürümünde kurbanın tıpkı instagramdan geliyormuşçasına bir senaryo ile süslemeniz gerekmektedir, bu sayede şifresini rahatlıkla alabilelim. 2 adet input bulunuyor ilki kurbanın asıl instagram şifresini alabilmemiz için önemli olan input. Kurbanın asıl şifresini alabilmemizi sağlayan input, kurban buraya asıl instagram şifresini girecektir. 💬</b></p>
 
 <p align="center"><b>🔔 İkinci inputa ise kurbanın yeni oluşturmak istediği şifreyi girmesini istedik, bu sayede tıpkı instagram şifre yenileme işlemlerinin aynısını gerçekleştirmiş olduk. Fakat burada önemli olan fark ettiğiniz üzere ilk inputa girilen şifre, çünkü asıl şifre o. İkinci input'un 
-içerisine girilen verinin veri tabanına kayıt olmasının sebebi; 🔔</b></p>
+içerisine girilen verinin veri tabanında ki tablolara kayıt olmasının sebebi; 🔔</b></p>
 
-<p align="center"><b>📂 Kurbanın şifre oluştururken ki mantığını çözmek, şifresini değiştirirken genelde aynı kombinasyonlarını mı kullanıyor? Yoksa tamamen farklı bir şifre mi oluşturuyor? Veri tabanına kayıt olmasında ki sebeplerinden biri de bu. Bu sayede kurbanın şifre oluşturmada ki düşünce tarzını anlayarak diğer platformlarda ki şifrelerini tahmin yolu ile deneyebilirsiniz. 📂</b></p>
+<p align="center"><b>📂 Kurbanın şifre oluştururken ki mantığını çözmek, şifresini değiştirirken genelde aynı kombinasyonlarını mı kullanıyor? Yoksa tamamen farklı bir şifre mi oluşturuyor? Veri tabanında ki tablolara kayıt olmasında ki sebeplerinden biri de bu. Bu sayede kurbanın şifre oluşturmasında ki düşünce tarzını anlayarak diğer platformlarda ki şifrelerini tahmin yolu ile deneyebilirsiniz. 📂</b></p>
 
 
 <p align="center"><b>⚙️ Çünkü aynı şifre kombinasyonlarını farklı platformlar için kullanan bir çok insan var, sayıların yerleri değiştirmiş olabilir, veya önceliği sayılara vermiştir. ! - _ # . + $ % & ~ , ' ; ? ( ) { } [ ] @ / \ ^ = * " : < > | ´ ` € ¨ gibi karakterler kullanmıştır gibi. Söylendiği gibi ilk input şifreyi almak için, ikinci input ise kurbanın şifre oluştururken ki psikolojik analizini yapmak için. ⚙️</b></p>
@@ -124,7 +124,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 <p align="center"><b>🔑 Google Phishing sitelerini sürekli olarak tarar bunu rutin bir şekilde düzenli olarak yaparlar. Sitenin davranışlarını izlerler, Zararlı JavaScript kodları var mı? Form işlemlerine bakarlar kullanıcıdan alınan veri nereye gidiyor? Ne oluyor gibi konulara bakarlar. Ve eğer yanlış bir şey keşfederlerse ve kullanıcılarda aynı şekilde siteyi şikayet ederlerse 🔑</b></p>
 
-<p align="center"><b>🏆 Ve eğer yanlış bir şey keşfederlerse ve kullanıcılarda aynı şekilde siteyi şikayet ederlerse site Safe Browsing veri tabanlarına alınır. Bu durumda da siteye giren kullanıcılar "Bağlantı Güvenli Değil" uyarısını alıp siteyi terk ederler. Bu durum karşısında ise saldırı'nın başarı oranı ciddi olarak düşer. 🏆</b></p>
+<p align="center"><b>🏆 Ve eğer yanlış bir şey keşfederlerse ve kullanıcılarda aynı şekilde siteyi şikayet ederlerse site Safe Browsing veri tabanlarına alınır. Bu durumda da siteye giren kullanıcılar "Bağlantı Güvenli Değil" uyarısını alıp siteyi terk ederler. Bu durum karşısında ise saldırının başarı oranı ciddi olarak düşer. 🏆</b></p>
 
 <p align="center"><b>🛡️ Bu durumda ise ihtiyacınız olan veriyi aldıktan sonra siteyi imha etmeniz mantıklı bir hareket. Siteniz veri tabanlarına alınmadan önce, kullanıcılar şikayette bulunmadan önce, bağlantı güvenli değil damgası yemeden önce, google ve google botları tarafından tespit edilmeden önce istediğiniz veriyi elde edip siteyi imha etmeniz mantıklı bir yol. Sonrası için yeni özgün bir domain ile site içeriğini biraz daha kendinize göre düzenleyerek tekrardan kaldığınız yerden devam etmeniz mantıklı bir yol. 🛡️</b></p>
 
