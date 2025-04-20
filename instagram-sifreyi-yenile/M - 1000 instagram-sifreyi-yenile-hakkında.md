@@ -103,7 +103,7 @@ içerisine girilen verinin veri tabanında ki tablolara kayıt olmasının sebeb
 
 <p align="center"><b>✔️ Sadece PC kullanıcılarını hedef almayarak mobil kullanıcılar da hedef alınmıştır, bu sebeple projenin responsive design kısmı iyi yapılmıştır. ✔️</b></p>
 
-<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanının tablolarına saat, dakika, saniye, gün, ay ve yıl şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
+<p align="center"><b>✔️ Hedef kişi verilerini gerekli inputlara girdiği vakit veri tabanında bulunan tabloya saat, dakika, saniye, gün, ay ve yıl şeklinde kayıt edilecektir. Bu sayede hesabı ne zaman çaldığınızdan haberdar olacaksınız. ✔️</b></p>
 
 <p align="center"><b>✔️ Hedef kişi gerekli inputları eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara IP adresi, işletim sistemi ve tarayıcı bilgileri kayıt olur. Eğer işletim sistemi ve tarayıcı bilgilerini rahat bir şekilde göremiyorsanız gerekli sütuna çift tıklayın, bu sayede rahatlıkla görebileceksiniz. ✔️</b></p>
 
