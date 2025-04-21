@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://komarev.com/ghpvc/?username=Emirless&label=M-1000-SY-Views&color=blue&style=flat"/>
+    <img src="https://komarev.com/ghpvc/?username=Emirless-instagram-sy&label=M-1000-SY-Views&color=blue&style=flat"/>
   </a>
   
   <a href="https://linktr.ee/Emirless" style="text-decoration: none;">
@@ -35,7 +35,7 @@
   </a>
 
    <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phishing Script-Yes-crimson?logo=githubactions"/>
+    <img src="https://img.shields.io/badge/Instagram Phishing Script-Yes-crimson?logo=instagram"/>
   </a>
      <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Phishing-Yes-brown?logo=chartdotjs"/>
