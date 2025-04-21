@@ -130,7 +130,7 @@
 
 <p align="center"><b>⌚ Hedef belirlediğiniz kişi gerekli inputlara gerekli veriyi girip butona tıkladığı vakit, verileri inputa girip butona tıkladığında ki zaman veri tabanında bulunan tablolara kayıt olacaktır. Bu sayede hedef kişinin hangi saatte, dakikada, saniyede, hangi gün, ay ve yıl içerisinde inputlara veri girdiğini rahatlıkla görebileceksiniz. Kısacası hesabı ne zaman ele geçirdiğinizi bilmiş olacaksınız. ⌚</b></p>
 
-<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developerı hiçbir şekilde sorumlu tutulmaz. Gerçekleştirilen eylemlerden kişi sorumludur. ⚠️</b></p>
+<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher Scripts projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developerı hiçbir şekilde sorumlu tutulmaz. Gerçekleştirilen eylemlerden kişi sorumludur. ⚠️</b></p>
 
 ---
 
