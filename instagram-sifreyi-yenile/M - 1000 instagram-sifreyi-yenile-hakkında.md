@@ -63,7 +63,7 @@ içerisine girilen verinin veri tabanında ki tablolara kayıt olmasının sebeb
 
 <p align="center"><b>⚙️ Çünkü aynı şifre kombinasyonlarını farklı platformlar için kullanan bir çok insan var, sayıların yerleri değiştirmiş olabilir, veya önceliği sayılara vermiştir. ! - _ # . + $ % & ~ , ' ; ? ( ) { } [ ] @ / \ ^ = * " : < > | ´ ` € ¨ gibi karakterler kullanmıştır gibi. Söylendiği gibi ilk input şifreyi almak için, ikinci input ise kurbanın şifre oluştururken ki psikolojik analizini yapmak için. ⚙️</b></p>
 
-<p align="center"><b>💾 M - 1000 İnstagram-Şifreyi-Yenile sürümünde hedef belirlediğiniz kişi inputları eksiksiz doldurup butona tıkladığı zaman veri tabanında bulunan tablolara hedef kişinin IP adresi, işletim sistemi ve tarayıcı bilgileri de kayıt olacaktır. Bu sayede hedef belirlediğiniz kişinin cihaz ve tarayıcı bilgilerinide ele geçirmiş olacaksınız. 💾</b></p>
+<p align="center"><b>💾 M - 1000 İnstagram-Şifreyi-Yenile sürümünde hedef belirlediğiniz kişi inputları eksiksiz doldurup butona tıkladığı zaman veri tabanında bulunan tablolara hedef kişinin IP adresi, işletim sistemi ve tarayıcı bilgileri de kayıt olacaktır. Bu sayede hedef belirlediğiniz kişinin kullandığı cihaz ve tarayıcı bilgilerinide ele geçirmiş olacaksınız. 💾</b></p>
 
 <p align="center"><b>⌚ M - 1000 İnstagram-Şifreyi-Yenile sürümünde hedef kişi inputları eksiksiz doldurup butona tıkladığı vakit veri tabanında bulunan tablolara saniye, saat, dakika, gün, ay ve yıl şeklinde kayıt edilecektir bu sayede hesabı ne zaman ele geçirdiğinizden haberdar olacaksınız. ⌚</b></p>
 
