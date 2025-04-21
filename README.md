@@ -47,6 +47,9 @@
       <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram Mail Theme-Yes-yellow?logo=instagram"/>
   </a>
+        <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram Mail Theme Phishing-Yes-blue?logo=instagram"/>
+  </a>
 </p>
 
 
