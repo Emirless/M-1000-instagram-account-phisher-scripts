@@ -32,10 +32,10 @@
   </a>
 
    <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phishing Mail Theme-Yes-crimson?logo=githubactions"/>
+    <img src="https://img.shields.io/badge/Phishing Mail Theme-✔️-crimson?logo=githubactions"/>
   </a>
      <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phishing-Yes-brown?logo=chartdotjs"/>
+    <img src="https://img.shields.io/badge/Phishing-✔️-brown?logo=chartdotjs"/>
   </a>
    <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram Phishing-✔️-blue?logo=instagram"/>
