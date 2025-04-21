@@ -20,9 +20,6 @@
   <a href="https://www.turkhackteam.org/uye/blackpion.950036/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/THT%20Profile%20Link-BlackPion-red?logo=firefox"/>
   </a>
-     <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Social Engineering-Yes-orange?logo=rocket"/>
-  </a>
 </p>
 
 <p align="center">
@@ -42,6 +39,27 @@
   </a>
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram Phishing-Yes-blue?logo=instagram"/>
+  </a>
+    <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Phishing Script-✔️-purple?logo=instagram"/>
+  </a>
+          <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram Account Phishing-✔️-pink?logo=instagram"/>
+  </a>
+       <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Social Engineering-✔️-orange?logo=rocket"/>
+  </a>
+         <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-black?logo=instagram"/>
+  </a>
+      <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram Reset Password Phishing-✔️-black?logo=instagram"/>
+  </a>
+           <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram Account Phishing Script-✔️-blue?logo=instagram"/>
+  </a>
+            <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram Reset Password Phishing Script-✔️-red?logo=instagram"/>
   </a>
 </p>
 
