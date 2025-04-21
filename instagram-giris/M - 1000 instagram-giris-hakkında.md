@@ -189,7 +189,7 @@ instagram adı altında türettiğiniz domain isimlerinin çoğu kara liste de o
 
 ---
 
-<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developerı hiçbir şekilde sorumlu tutulmaz. Gerçekleşen eylemlerden kişi sorumludur. ⚠️</b></p>
+<p align="center"><b>⚠️ M - 1000 İnstagram Account Phisher Scripts projesi tamamı ile eğitim amaçlıdır, olası bir aksi durumda cezai işleme tabi tutulabilirsiniz. Bu durumda M - 1000 developerı hiçbir şekilde sorumlu tutulmaz. Gerçekleşen eylemlerden kişi sorumludur. ⚠️</b></p>
 
 ---
 
