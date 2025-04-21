@@ -31,40 +31,40 @@
   </a>
 
    <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram Phishing Script-Yes-crimson?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram Phishing Script-✔️-crimson?logo=instagram"/>
   </a>
      <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phishing-Yes-brown?logo=chartdotjs"/>
+    <img src="https://img.shields.io/badge/Phishing-✔️-brown?logo=chartdotjs"/>
   </a>
        <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram Phishing-Yes-blue?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram Phishing-✔️-blue?logo=instagram"/>
   </a>
     <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phishing Script-Yes-purple?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Phishing Script-✔️-purple?logo=instagram"/>
   </a>
       <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram Mail Theme-Yes-yellow?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram Mail Theme-✔️-yellow?logo=instagram"/>
   </a>
         <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram Mail Theme Phishing-Yes-blue?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram Mail Theme Phishing-✔️-blue?logo=instagram"/>
   </a>
           <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram Account Phishing-Yes-pink?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram Account Phishing-✔️-pink?logo=instagram"/>
   </a>
        <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Social Engineering-Yes-orange?logo=rocket"/>
+    <img src="https://img.shields.io/badge/Social Engineering-✔️-orange?logo=rocket"/>
   </a>
          <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-gray?logo=instagram"/>
   </a>
       <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram 2FA Phishing-Yes-black?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram 2FA Phishing-✔️-black?logo=instagram"/>
   </a>
         <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram Reset Password Phishing-Yes-yellow?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram Reset Password Phishing-✔️-yellow?logo=instagram"/>
   </a>
           <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram Reset Login Phishing-Yes-blue?logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram Reset Login Phishing-✔️-blue?logo=instagram"/>
   </a>
 </p>
 
