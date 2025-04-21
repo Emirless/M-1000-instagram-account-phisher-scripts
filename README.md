@@ -7,12 +7,10 @@
     <img src="https://img.shields.io/badge/Developer By-BlackPion-blue?logo=apache" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://komarev.com/ghpvc/?username=Emirless-M-1000-Scripts&label=M-1000-Views&color=blue&style=flat"/>
   </a>
-  
   <a href="https://linktr.ee/Emirless" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/M1000%20Linktree-M1000%20Linktree-brightgreen?logo=linktree"/>
   </a>
