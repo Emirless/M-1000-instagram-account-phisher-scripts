@@ -21,15 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Source-Open%20Source-black?logo=github"/>
   </a>
@@ -111,7 +102,14 @@
 
 <br>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin" />
+</p>
 
 ---
 
