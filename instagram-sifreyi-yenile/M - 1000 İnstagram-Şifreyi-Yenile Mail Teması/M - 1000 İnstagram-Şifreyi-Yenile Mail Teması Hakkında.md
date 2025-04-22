@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Emirless/M-1000-instagram-account-phisher-scripts" style="text-decoration: none;">
-    <img src="https://komarev.com/ghpvc/?username=M100-SY-MT&label=M-1000-SY-MT-Views&color=blue&style=flat"/>
+    <img src="https://komarev.com/ghpvc/?username=M100-SY-MT-T&label=M-1000-SY-MT-Views&color=blue&style=flat"/>
   </a>
   
   <a href="https://linktr.ee/Emirless" style="text-decoration: none;">
