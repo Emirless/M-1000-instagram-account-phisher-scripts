@@ -18,7 +18,15 @@
   <a href="https://www.turkhackteam.org/uye/blackpion.950036/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/THT%20Profile%20Link-BlackPion-red?logo=firefox"/>
   </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin" />
 </p>
 
 <p align="center">
@@ -103,14 +111,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin" />
-</p>
+
 
 ---
 
