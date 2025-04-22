@@ -101,7 +101,6 @@
   </a>
 </p>
 
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=" />
